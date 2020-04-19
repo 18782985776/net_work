@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.missmess.coverflowview:coverflowview-1.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coverflowview-1.0.9.aar/05012e7f6e043195e45939815271fb1a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coverflowview-1.0.9.aar/05012e7f6e043195e45939815271fb1a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.missmess.coverflowview/coverflowview/1.0.9/29417ef6a6488c326a4f28683186ee0e97f10556/coverflowview-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

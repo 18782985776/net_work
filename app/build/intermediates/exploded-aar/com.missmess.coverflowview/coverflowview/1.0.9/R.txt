@@ -1,0 +1,15 @@
+int attr coverflowGravity 0x7f010002
+int attr coverflowLayoutMode 0x7f010003
+int attr loopMode 0x7f010001
+int attr visibleViews 0x7f010000
+int id bottom 0x7f030000
+int id center_vertical 0x7f030001
+int id match_parent 0x7f030003
+int id top 0x7f030002
+int id wrap_content 0x7f030004
+int string app_name 0x7f020000
+int[] styleable CoverFlowView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003 }
+int styleable CoverFlowView_coverflowGravity 2
+int styleable CoverFlowView_coverflowLayoutMode 3
+int styleable CoverFlowView_loopMode 1
+int styleable CoverFlowView_visibleViews 0

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/iv_crop"
+        android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"
+        android:layout_width="46dp"
+        android:layout_height="46dp"
+        android:src="@drawable/ic_launcher" />
+    <ImageView
+        android:layout_width="17dp"
+        android:layout_height="17dp"
+        android:layout_toRightOf="@id/iv_crop"
+        android:layout_above="@id/iv_crop"
+        android:layout_marginBottom="-28dp"
+        android:layout_marginLeft="-6dp"
+        android:src="@drawable/selector_cb5"
+        />
+    <TextView
+        android:id="@+id/tv_crop_name"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iv_crop"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="10dp"
+        android:maxLines="1"
+        android:maxEms="5"
+        android:ellipsize="end"
+        android:textSize="13dp"
+        android:textColor="@color/c_txt_38"
+        android:text="大白菜大白菜大白菜大白菜大白菜"/>
+</RelativeLayout>

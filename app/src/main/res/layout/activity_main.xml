@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+   <FrameLayout
+       android:id="@+id/flContent"
+       android:layout_width="match_parent"
+       android:layout_height="0dp"
+       android:layout_weight="1">
+   </FrameLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_gravity="bottom"
+       android:orientation="vertical">
+      <View
+          android:layout_width="match_parent"
+          android:layout_height="1dp"
+          android:background="@color/line_color" />
+      <RadioGroup
+          android:id="@+id/main_group"
+          android:layout_width="match_parent"
+          android:layout_height="49dp"
+          android:gravity="center"
+          android:orientation="horizontal">
+         <!--  首页 -->
+         <RadioButton
+             android:id="@+id/tab_home"
+             style="@style/tab_menu_item"
+             android:checked="true"
+             android:drawableTop="@drawable/tab_home_selector"
+             android:text="首页"
+             />
+         <!--农场-->
+         <RadioButton
+             android:id="@+id/tab_farm"
+             style="@style/tab_menu_item"
+             android:drawableTop="@drawable/tab_farm_select"
+             android:text="农场" />
+         <!--集市-->
+         <RadioButton
+             android:id="@+id/tab_bazaar"
+             style="@style/tab_menu_item"
+             android:drawableTop="@drawable/tab_bazaar_select"
+             android:text="集市" />
+         <!--养殖 -->
+         <RadioButton
+             android:id="@+id/tab_community"
+             style="@style/tab_menu_item"
+             android:drawableTop="@drawable/tab_community_selector"
+             android:text="社区"
+             />
+         <!-- 我的 -->
+         <RadioButton
+             android:id="@+id/tab_mine"
+             style="@style/tab_menu_item"
+             android:drawableTop="@drawable/tab_mine_select"
+             android:text="我的" />
+      </RadioGroup>
+   </LinearLayout>
+
+</LinearLayout>

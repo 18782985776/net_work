@@ -1,0 +1,198 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="horizontal_slide" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/AnimFade</item>
+    </style>
+
+    <style name="AnimFade" parent="@android:style/Animation.Activity">
+        <!--将Activity的Theme设置成透明-->
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_right</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_from_left</item>
+
+    </style>
+    <!--加载动画时用的progressbar-->
+    <style name="style_loading_progress">
+        <item name="android:maxWidth">65.0dip</item>
+        <item name="android:maxHeight">65.0dip</item>
+        <item name="android:indeterminateDrawable">@anim/anim_loading</item>
+        <item name="android:minWidth">65.0dip</item>
+        <item name="android:minHeight">65.0dip</item>
+    </style>
+    <!--底部导航栏-->
+    <style name="tab_menu_item">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/tab_selector_text</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="split_line_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0.5dp</item>
+        <item name="android:background">@color/line_color</item>
+    </style>
+
+    <style name="one_dp_split_line_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1.0dp</item>
+        <item name="android:background">@color/line_color</item>
+    </style>
+
+    <style name="big_split_line_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">10dp</item>
+        <item name="android:background">@color/line_color</item>
+    </style>
+
+    <style name="price_item_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">46dp</item>
+        <item name="com.jobnew.farm:sLeftTextSize">14sp</item>
+        <item name="com.jobnew.farm:sLeftTextColor">@color/c_txt_25</item>
+        <item name="com.jobnew.farm:sBackgroundColor">@color/white</item>
+        <item name="com.jobnew.farm:sRightTextSize">12sp</item>
+        <item name="com.jobnew.farm:sRightTextColor">@color/c_txt_F8</item>
+        <item name="com.jobnew.farm:sRightTextStringRightIconResPadding">10dp</item>
+        <item name="com.jobnew.farm:sLineShow">bottom</item>
+        <item name="com.jobnew.farm:sUseRipple">true</item>
+        <item name="com.jobnew.farm:sLeftTextMarginLeft">@dimen/left_margin</item>
+        <item name="com.jobnew.farm:sRightTextMarginRight">@dimen/right_margin</item>
+    </style>
+
+    <style name="stv_item_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">46dp</item>
+        <item name="com.jobnew.farm:sLeftTextSize">14sp</item>
+        <item name="com.jobnew.farm:sLeftTextColor">#000000</item>
+        <item name="com.jobnew.farm:sBackgroundColor">@color/white</item>
+        <item name="com.jobnew.farm:sRightTextSize">13sp</item>
+        <item name="com.jobnew.farm:sRightTextColor">@color/c_txt_68</item>
+        <item name="com.jobnew.farm:sRightTextStringRightIconResPadding">10dp</item>
+        <item name="com.jobnew.farm:sLineShow">bottom</item>
+        <item name="com.jobnew.farm:sUseRipple">true</item>
+        <item name="com.jobnew.farm:sLeftTextMarginLeft">@dimen/left_margin</item>
+        <item name="com.jobnew.farm:sRightTextMarginRight">@dimen/right_margin</item>
+    </style>
+    <!--自定义原型图片-->
+    <declare-styleable name="CircleImageView">
+        <attr name="circleimageview_border_width" format="dimension" />
+        <attr name="circleimageview_border_color" format="color" />
+    </declare-styleable>
+    <!--宽分割线-->
+    <style name="divider_large">
+        <item name="android:layout_height">6dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/bg_color</item>
+    </style>
+    <!--分割线-->
+    <style name="divider_normal">
+        <item name="android:layout_height">1dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/bg_color</item>
+    </style>
+
+    <style name="style_tv_38">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:textColor">@color/c_txt_38</item>
+    </style>
+
+    <style name="style_tv_25">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/c_txt_25</item>
+    </style>
+    <!--dialog主题-->
+    <style name="mydialog">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <!--PopWindow-->
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+
+    <style name="style_tv_price">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/c_txt_F8</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="style_tv_68">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/c_txt_68</item>
+        <item name="android:textSize">13dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="MyTab" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>    <!--背景透明-->
+        <item name="android:windowFrame">@null</item>                       <!--边框-->
+        <item name="android:windowNoTitle">true</item>                      <!--无标题-->
+        <item name="android:windowIsFloating">true</item>                   <!--是否浮现在activity上-->
+        <item name="android:windowIsTranslucent">true</item>                <!--半透明-->
+        <item name="android:windowContentOverlay">@null</item>              <!--解决闪屏页-->
+        <item name="android:windowAnimationStyle">@style/shareActivityAnimation</item>
+        <item name="android:backgroundDimEnabled">true</item>    <!--背景的明暗度-->
+    </style>
+
+    <style name="shareActivityAnimation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/share_activity_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/share_activity_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/share_activity_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/share_activity_out</item>
+    </style>
+
+    <style name="plan_stv_88">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_marginRight">90dp</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/c_txt_88</item>
+    </style>
+
+    <style name="StartAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@drawable/fristloading</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="style_tv_25_14">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/c_txt_25</item>
+    </style>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.jobnew.farm.module.personal.activity.FeedBackActivity">
+    <include layout="@layout/layout_title_bar"/>
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="151dp"
+    android:gravity="top|left"
+    android:paddingTop="10dp"
+    android:paddingLeft="10dp"
+    android:maxLength="300"
+    android:hint="输入您的问题或者建议"
+    android:background="@color/white"
+    android:textSize="@dimen/text_size_14"
+    android:textColorHint="@color/c_txt_88"
+    android:id="@+id/feed_editTextView"/>
+    <include layout="@layout/layout_easy_status_view"/>
+
+</LinearLayout>

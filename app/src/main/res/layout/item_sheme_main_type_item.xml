@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.allen.library.SuperTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/price_item_style"
+    android:layout_height="40dp"
+    app:sLeftIconMarginLeft="36dp"
+    app:sLeftIconRes="@drawable/selector_cb3"
+    app:sLeftTextMarginLeft="15dp"
+    app:sLeftTextString="生物肥">
+
+    <TextView
+        android:id="@+id/tv_unit_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/tv_unit"
+        android:gravity="center"
+        android:text="¥1.00"
+        android:textColor="@color/c_txt_F8"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/tv_unit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/right_margin"
+        android:text="/㎡"
+        android:textColor="@color/c_txt_88"
+        android:textSize="13sp" />
+
+</com.allen.library.SuperTextView>

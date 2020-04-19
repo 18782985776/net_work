@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jobnew.farm">
+
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <!-- 华为特殊报错权限 -->
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <!-- 需要动态获取的权限 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 第三方登陆权限 -->
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <!-- 支付宝权限 -->
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+    <!-- 用于申请调用A-GPS模块 -->
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <!-- 用于申请获取蓝牙信息进行室内定位 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/horizontal_slide">
+        <activity
+            android:name=".MainActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".module.farm.activity.PlantingPlanAcitivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity
+            android:name=".module.farm.activity.BreedingPlanActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity
+            android:name=".module.farm.activity.PlantingSchemeActivity"
+            android:windowSoftInputMode="adjustResize|stateAlwaysHidden" />
+        <activity
+            android:name=".module.farm.activity.BreedingSchemeActivity"
+            android:windowSoftInputMode="adjustResize|stateAlwaysHidden" />
+        <activity
+            android:name=".module.farm.activity.StewardActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity
+            android:name=".module.farm.activity.SignboardActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity
+            android:name=".module.farm.activity.MonitorActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity
+            android:name=".module.farm.activity.ProductProcessActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity
+            android:name=".module.farm.activity.InsuranceActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity
+            android:name=".module.farm.activity.LandDetailsActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity
+            android:name=".module.farm.activity.BreedDetailsActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity
+            android:name=".module.farm.activity.SelectCropActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity android:name=".module.farm.activity.ConfirmOrderActivity" />
+        <activity android:name=".module.farm.activity.SettingFrequencyActivity" />
+        <activity android:name=".module.loginAndRegister.activity.LoginActivity" />
+        <activity android:name=".module.loginAndRegister.activity.RegisterActivity" />
+        <activity android:name=".module.loginAndRegister.activity.ForgetPwdActivity" />
+        <activity android:name=".module.loginAndRegister.activity.UserAgreementActivity" />
+        <activity android:name=".module.home.activity.ScanActivity" />
+        <activity android:name=".module.personal.activity.UserHomeActivity" />
+        <activity
+            android:name=".module.personal.activity.UserInfoActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize" />
+        <activity android:name=".module.farm.activity.farmActivity.FarmDetailsActivity" />
+        <activity android:name=".module.personal.activity.AddressManage" />
+        <activity android:name=".module.personal.activity.EditAddressActivity" />
+        <activity android:name=".module.personal.activity.NewAddAddressActivity" />
+        <activity android:name=".module.personal.activity.MyFarm.MyFarmActivity" />
+        <activity
+            android:name=".module.personal.activity.PhotoAlbumMngActivity"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize" />
+        <activity android:name=".module.personal.activity.SettingActivity" />
+        <activity android:name=".module.personal.activity.ChangePwdActivity" />
+        <activity android:name=".module.personal.activity.AboutUsActivity" />
+        <activity android:name=".module.personal.activity.CustomerServiceActivity" />
+        <activity android:name=".module.personal.activity.InvestmentActivity" />
+        <activity android:name=".module.personal.activity.order.MyOrderActivity" />
+        <activity
+            android:name=".module.farm.activity.farmActivity.ShareUtilsActivity"
+            android:theme="@style/MyDialogStyle" />
+        <activity android:name=".module.home.activity.SearchActivityForHome" />
+        <activity android:name=".module.personal.activity.MyWalletActivity" />
+        <activity
+            android:name=".module.farm.activity.farmActivity.PayOrderActivity"
+            android:exported="true" />
+        <activity android:name=".module.farm.activity.farmActivity.LoveDonationActivity" />
+        <activity android:name=".module.farm.activity.farmActivity.ShippingAddressMangeAcitivty" />
+        <activity android:name=".module.personal.activity.HelpActivity" />
+        <activity android:name=".module.personal.activity.MyFarm.LandInformationActivity" />
+        <activity android:name=".module.personal.activity.MyFarm.TaskRecordActivity" />
+        <activity android:name=".module.personal.activity.TopUpBalanceActivity" />
+        <activity android:name=".module.personal.activity.TopUpFarmCurrencyActivity" />
+        <activity android:name=".module.personal.activity.DetailActivity" />
+        <activity android:name=".module.personal.activity.OrderEvaluateActivity" />
+        <activity android:name=".module.personal.activity.WithdrawActivity" />
+        <activity android:name=".module.personal.activity.WithDrawAlipayActivity" />
+        <activity android:name=".module.personal.activity.AddAlipayActivity" />
+        <activity android:name=".module.personal.activity.FeedBackActivity" />
+        <activity android:name=".module.personal.activity.MyCollectionActivity" />
+        <activity android:name=".module.home.activity.FarmHappyActivity" />
+        <activity android:name=".module.home.activity.FarmHappyDetatilsActivity" />
+        <activity android:name=".module.personal.activity.order.AfterSalesActivity" />
+        <activity
+            android:name=".module.personal.activity.AfterReturnActivity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".module.home.activity.CateringDetailsActivity" />
+        <activity android:name=".module.farm.activity.farmActivity.ProductDetailsActivity" />
+        <activity android:name=".module.farm.activity.farmActivity.ProductMoreCommentActivity" />
+        <activity android:name=".module.farm.activity.farmActivity.ProductGoToSource" />
+        <activity android:name=".module.personal.activity.BindPhoneActivity" />
+        <activity android:name=".module.personal.activity.KindMyShelfActivity" />
+        <activity android:name=".module.personal.activity.LogisticsActivity" />
+        <activity android:name=".module.home.activity.HomeEntertainmentActivity" />
+        <activity android:name=".module.home.activity.EntertainmentDetailsActivity" />
+        <activity android:name=".module.home.activity.MyEntertainmentActivity" />
+        <activity android:name=".module.home.activity.GuideActivity" />
+        <activity android:name=".data.downLoad.DownActivity" />
+        <activity android:name=".module.home.activity.LaunchedActivity" />
+        <activity android:name=".module.personal.activity.MyFarm.PlantingPlanDetailsActivity" />
+        <activity android:name=".module.personal.activity.MyFarm.AddNewTaskAcitivity" />
+        <activity android:name=".module.personal.activity.MyFarm.LandAwayActivity" />
+        <activity android:name=".module.personal.activity.ReleaseDynamicActivity" />
+        <activity android:name=".module.farm.activity.ScanPictureActivity" />
+        <activity android:name=".module.personal.activity.MyFarm.ProductProgressActivity" />
+        <activity android:name=".module.home.activity.MatchFeatureActivity" />
+        <activity android:name=".module.exclusive.ExclusiveLandActivity" />
+        <activity
+            android:name=".module.exclusive.ExclusiveLandDetailsActivity"
+            android:windowSoftInputMode="adjustPan|stateAlwaysHidden" />
+        <activity android:name=".module.exclusive.ConfirmExclusiveLandOrderActivity" />
+        <activity android:name=".module.personal.activity.ShoppingTrolleyActivity"/>
+        <activity android:name=".module.home.activity.MyMatchActivity" />
+        <activity android:name=".module.home.activity.MatchInfoActivity" />
+        <activity android:name=".module.personal.activity.order.OrderMoreEvaAndSafActivity"/>
+        <activity android:name=".module.personal.activity.order.AfterDetailsActivity"/>
+        <activity
+            android:name=".module.home.activity.WelcomeActivity"
+            android:theme="@style/StartAppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- 图片选择器 -->
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImagePreviewDelActivity"
+            android:theme="@style/ImagePickerThemeFullScreen" />
+        <!-- umeng -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="58b78dd4677baa66f20012a4" />
+        <!-- 微博 -->
+
+        <activity
+            android:name=".WBShareActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait">
+            -
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sina.weibo.sdk.component.WeiboSdkBrowser"
+            android:configChanges="keyboardHidden|orientation"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+
+        <service
+            android:name="com.sina.weibo.sdk.net.DownloadService"
+            android:exported="false" />
+        <!-- 高德 -->
+        <service android:name="com.amap.api.location.APSService" />
+        <!-- 微信 -->
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- 微信支付 -->
+        <activity
+            android:name=".wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop" />
+        <!-- 支付宝 -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation|screenSize"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.alipay.sdk.app.H5AuthActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <!-- QQ -->
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="tencent1105979690" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.connect.common.AssistActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.jobnew.farm.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+        <!-- 高德 -->
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="6889800d208f7d498504a9951e6a7b20" />
+        <activity android:name=".module.personal.activity.ConfirmOrderActivity"/>
+        <activity android:name=".module.home.activity.LocationActivity" />
+        <activity android:name=".module.home.activity.MyFarmHappyOrderActivity" />
+        <activity android:name=".module.home.activity.FarmHappyOrderCommentActivity" />
+        <activity android:name=".module.farm.activity.farmActivity.ProductSureOrderActivity" />
+        <activity android:name=".module.farm.activity.LeaveMessageActivity" />
+        <activity android:name=".module.home.activity.EntertainmentCofirmOrderActivity"></activity>
+
+    </application>
+
+</manifest>

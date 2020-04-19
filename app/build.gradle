@@ -1,0 +1,123 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.jakewharton.butterknife'
+android {
+    compileSdkVersion 25
+    signingConfigs {
+        signkey {
+            keyAlias 'china'
+            keyPassword '363306'
+            storeFile file('../signed.jks')
+            storePassword '363306'
+        }
+    }
+    //设置JDK1.8
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    defaultConfig {
+        applicationId "com.jobnew.farm"
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        //  突破应用方法数65535的限制
+        multiDexEnabled true
+        jackOptions { enabled true }
+        ndk {
+            abiFilters "armeabi-v7a", "armeabi";
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField("String", "BASE_URL", "\"http://api.dawangkeji.com/\"")
+            signingConfig signingConfigs.signkey
+        }
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            buildConfigField("String", "BASE_URL", "\"http://192.168.9.200/\"")
+            signingConfig signingConfigs.signkey
+        }
+    }
+
+//    android.applicationVariants.all { variant ->
+//        variant.outputs.each { output ->
+//            def outputFile = output.outputFile
+//            if (outputFile != null && outputFile.name.endsWith('.apk')) {
+////                def fileName = defaultConfig.applicationId + "-" + buildType.name + "-v" +
+////                        defaultConfig.versionName + "-" + defaultConfig.versionCode + ".apk"
+//                def fileName="${defaultConfig.versionName}-${defaultConfig.versionCode}.apk"
+//                output.outputFile = new File(outputFile.parent, fileName)
+//            }
+//        }
+//    }
+    android.applicationVariants.all { variant ->
+        variant.outputs.all {
+            outputFileName = "${variant.name}-${variant.versionName}.apk"
+        }
+    }
+}
+
+
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    //    compile 'com.android.support:design:25.2.0'
+
+    /*轮播图*/
+
+    /*权限*/
+
+    /*扫一扫*/
+
+    /*日期选择器*/
+    compile files('libs/libammsdk.jar')
+    /*标签*/
+    compile files('libs/alipaySdk-20170623-proguard.jar')
+    compile files('libs/AMap2DMap_5.2.0_AMapSearch_5.2.1_AMapLocation_3.5.0_20170731.jar')
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:support-v4:25.3.1'
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.android.support:recyclerview-v7:25.3.1'
+    compile 'com.github.lygttpod:SuperTextView:1.1.1'
+    compile 'com.github.MarnonDev:EasyStatusView:v1.0.3'
+    compile 'com.github.AriesHoo:UIAlertView:1.0.3'
+    compile 'com.github.AriesHoo:UIActionSheetView:1.0.1'
+    compile 'com.github.AriesHoo:UIProgressView:1.0.1'
+    compile 'com.lzy.widget:imagepicker:0.5.5'
+    compile 'in.srain.cube:ultra-ptr:1.0.11'
+    compile 'com.orhanobut:logger:1.15'
+    compile 'com.google.code.gson:gson:2.7'
+    compile 'com.jakewharton:butterknife:8.4.0'
+    compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.12'
+    compile 'com.squareup.retrofit2:retrofit:2.2.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.2.0'
+    compile 'com.squareup.retrofit2:adapter-rxjava2:2.2.0'
+    compile 'io.reactivex.rxjava2:rxjava:2.1.0'
+    compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    compile 'com.android.support:design:25.3.1'
+    compile 'com.bigkoo:convenientbanner:2.0.5'
+    compile 'pub.devrel:easypermissions:0.2.1'
+    compile 'com.google.zxing:core:3.2.1'
+    compile 'cn.bingoogolapple:bga-qrcodecore:1.1.7@aar'
+    compile 'cn.bingoogolapple:bga-zxing:1.1.7@aar'
+    compile 'com.missmess.coverflowview:coverflowview:1.0.9'
+    compile 'com.contrarywind:Android-PickerView:3.2.5'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.zhy:flowlayout-lib:1.0.3'
+    testCompile 'junit:junit:4.12'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.6.0'
+}

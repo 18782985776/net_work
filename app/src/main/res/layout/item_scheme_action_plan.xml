@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.allen.library.SuperTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/stv_action_plan"
+    style="@style/price_item_style"
+    app:sLeftTextMarginLeft="10dp"
+    app:sRightTextColor="@color/c_txt_38"
+    app:sRightTextSize="12sp"
+    app:sLeftTextString="播种日期"
+    app:sRightTextString="2017-06-08"
+    app:sRightTextStringRightIconRes="@mipmap/farm_icon_more1" />

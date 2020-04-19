@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="130dp"
+    android:gravity="center"
+    android:background="@drawable/bg_collection_succeed"
+    android:orientation="vertical"
+    android:layout_height="65dp">
+    <ImageView
+        android:layout_width="16dp"
+        android:src="@mipmap/farm_icon_collection2"
+        android:layout_height="15dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:textColor="@color/white"
+        android:text="收藏成功"
+        android:layout_marginTop="10dp"
+        android:textSize="@dimen/text_size_15"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+</LinearLayout>

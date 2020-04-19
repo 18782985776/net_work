@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="153dp">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:id="@+id/competition_item_layout"
+        android:layout_width="match_parent"
+        android:layout_height="101dp">
+
+        <ImageView
+            android:layout_width="81dp"
+            android:layout_height="81dp"
+            android:id="@+id/farmhouse_img"
+            android:scaleType="centerCrop"
+            android:src="@drawable/farm_picture"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="2dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="19dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/farmhouse_nametv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="top"
+                    android:text="成都农场100人种植大赛"
+                    android:textColor="#383938"
+                    android:textSize="@dimen/text_size_15" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="17dp"
+                    android:id="@+id/tag_ll"
+                    android:background="@drawable/bg_matching"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp">
+
+                    <ImageView
+                        android:id="@+id/tag_img"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_width="16dp"
+                        android:layout_height="16dp"
+                        android:src="@mipmap/farm_fiery2" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:text="火热进行中"
+                        android:id="@+id/tag_text"
+                        android:textColor="@color/c_fire"
+                        android:textSize="@dimen/text_size_10" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="3"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="3"
+                    android:gravity="center|left"
+                    android:text="举办方：徐州农场"
+                    android:textColor="@color/c_txt_68"
+                    android:textSize="@dimen/text_size_12" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="人数 35/50"
+                    android:gravity="bottom"
+                    android:id="@+id/people_num_tv"
+                    android:textSize="@dimen/text_size_11"
+                    android:layout_height="match_parent" />
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="11dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_gravity="bottom"
+                    android:layout_marginRight="15dp"
+                    android:background="@color/line_color"/>
+                <TextView
+                    android:layout_width="0dp"
+                    android:gravity="bottom"
+                    android:id="@+id/date_tv"
+                    android:textSize="@dimen/text_size_11"
+                    android:text="日期 2017-05-25至2017-05-31"
+                    android:layout_weight="3"
+                    android:layout_height="match_parent" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:background="#e3e3e3"
+        android:layout_height="1dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="13dp"
+            android:layout_height="13dp"
+            android:layout_marginLeft="10dp"
+            android:src="@mipmap/farm_icon_address1" />
+
+        <TextView
+            android:id="@+id/farm_houseAdreestv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:textColor="#686868"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="成都市高新区天赋二街蜀都中心1号楼138号"
+            android:textSize="@dimen/text_size_12" />
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/competition_distance_tv"
+            android:gravity="center"
+            android:textSize="@dimen/text_size_11"
+            android:text="距离 8KM"
+            android:textColor="@color/c_txt_88"
+            android:layout_marginRight="10dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="11dp"
+        android:background="#e3e3e3"/>
+</LinearLayout>

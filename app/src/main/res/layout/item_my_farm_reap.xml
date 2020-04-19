@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="101dp"
+    android:layout_marginBottom="10dp"
+    android:background="@color/white">
+    <ImageView
+        android:id="@+id/iv_product"
+        android:layout_width="81dp"
+        android:layout_height="81dp"
+        android:layout_centerVertical="true"
+        android:src="@mipmap/default_image"/>
+
+    <!--中间-->
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/iv_product"
+        android:layout_marginLeft="10dp"
+        android:layout_alignTop="@id/iv_product"
+        android:textSize="15sp"
+        android:textColor="@color/c_txt_25"
+        android:text=""/>
+    <TextView
+        android:id="@id/tv_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/tv_name"
+        android:layout_below="@id/tv_name"
+        android:layout_marginTop="18dp"
+        android:textSize="13sp"
+        android:textColor="#9ECC5B"
+        android:text="已配送"/>
+
+    <TextView
+        android:id="@+id/tv_date_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/tv_name"
+        android:layout_alignBottom="@id/iv_product"
+        android:text="收获日期："
+        android:textColor="@color/c_txt_88"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/tv_date_name"
+        android:layout_toRightOf="@id/tv_date_name"
+        android:text=""
+        android:textColor="@color/c_txt_88"
+        android:textSize="12dp" />
+
+    <!--右边-->
+    <ImageView
+        android:id="@+id/iv_delete"
+        android:layout_width="23dp"
+        android:layout_height="24dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/right_margin"
+        android:padding="5dp"
+        android:layout_marginTop="-5dp"
+        android:layout_alignTop="@id/iv_product"
+        android:src="@mipmap/mine_icon_delete2"/>
+
+    <TextView
+        android:id="@+id/tv_comment"
+        android:layout_width="66dp"
+        android:layout_height="23dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/right_margin"
+        android:background="@drawable/bg_select_yes2"
+        android:layout_marginTop="35dp"
+        android:gravity="center"
+        android:text="追加评价"
+        android:textColor="@color/white"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/tv_progress"
+        android:layout_width="66dp"
+        android:layout_height="23dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="@dimen/right_margin"
+        android:background="@drawable/bg_select_no2"
+        android:gravity="center"
+        android:text="溯源"
+        android:textColor="@color/btn_bg_color"
+        android:textSize="12sp" />
+
+</RelativeLayout>

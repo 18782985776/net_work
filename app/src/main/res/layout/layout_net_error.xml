@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/bg_color"
+	android:orientation="vertical">
+
+	<ImageView
+		android:id="@+id/data_netError_image"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="100dp"
+		android:layout_width="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:background="@mipmap/public_fail"
+		android:tag="skin:ic_main_default_wifi:background"/>
+
+	<TextView
+		android:id="@+id/data_netError_textview"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal"
+		android:layout_below="@+id/data_netError_image"
+		android:layout_marginTop="26dp"
+		android:gravity="center"
+		android:textColor="@color/c_txt_88"
+		android:text="网络请求失败"
+		android:textSize="15dp"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/data_netError_textview"
+		android:layout_marginTop="15dp"
+		android:layout_gravity="center_horizontal"
+		android:text="请检查您的网络，点击界面刷新"
+		android:textColor="@color/c_txt_88"
+		android:textSize="15dp"/>
+
+	<TextView
+		android:id="@+id/tv_setNet"
+		android:layout_width="120dp"
+		android:layout_height="37dp"
+		android:layout_gravity="center_horizontal"
+		android:layout_marginTop="25dp"
+		android:background="@drawable/bg_color_main"
+		android:gravity="center"
+		android:text="点击设置网络"
+		android:textColor="@color/main_color" />
+
+</LinearLayout>

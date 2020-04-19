@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="10dp"
+            android:src="@mipmap/mine_corner"
+            android:layout_gravity="right"
+            android:layout_marginRight="22dp"
+            android:layout_height="10dp" />
+        <LinearLayout
+            android:layout_width="100dp"
+            android:orientation="vertical"
+            android:layout_marginRight="12dp"
+            android:background="@drawable/bg_pop"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:id="@+id/ll_my_qr"
+                android:clickable="true"
+                android:layout_width="100dp"
+                android:orientation="horizontal"
+                android:layout_height="35dp">
+                <ImageView
+                    android:layout_width="15dp"
+                    android:src="@mipmap/mine_icon_qr_code"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_height="15dp" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="我的二维码"
+                    android:textSize="@dimen/text_size_12"
+                    android:textColor="@color/white"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <ImageView
+                android:layout_width="100dp"
+                android:background="@color/white"
+                android:layout_height="1px" />
+            <LinearLayout
+                android:id="@+id/ll_scan"
+                android:clickable="true"
+                android:layout_width="100dp"
+                android:orientation="horizontal"
+                android:layout_height="35dp">
+                <ImageView
+                    android:layout_width="15dp"
+                    android:src="@mipmap/ic_scan"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_height="15dp" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="扫一扫"
+                    android:textSize="@dimen/text_size_12"
+                    android:textColor="@color/white"
+                    android:layout_gravity="center"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

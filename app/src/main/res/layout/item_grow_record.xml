@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="205dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:layout_marginRight="@dimen/dp_10"
+        android:layout_height="30dp">
+        <ImageView
+            android:layout_width="12dp"
+            android:src="@mipmap/public_icon_dot"
+            android:layout_height="12dp" />
+        <ImageView
+            android:layout_width="30dp"
+            android:id="@+id/farm_manager_img"
+            android:src="@drawable/ic_launcher"
+            android:layout_marginLeft="13dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="花果山农场管家"
+            android:id="@+id/farm_manager_tv"
+            android:textColor="@color/c_txt_25"
+            android:gravity="center_vertical"
+            android:layout_height="wrap_content" />
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:gravity="center_vertical"
+            android:text="2017-6-1"
+            android:id="@+id/date_tv"
+            android:textSize="@dimen/text_size_12"
+            android:textColor="@color/c_txt_68"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="175dp">
+        <View
+            android:layout_width="1dp"
+            android:layout_marginLeft="16dp"
+            android:background="@color/line_color"
+            android:layout_height="match_parent"/>
+        <RelativeLayout
+            android:layout_marginLeft="19dp"
+            android:layout_width="match_parent"
+            android:layout_marginRight="@dimen/dp_10"
+            android:layout_height="175dp">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="49dp"
+                android:gravity="center_vertical"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/c_txt_38"
+                    android:text="锄地播种"
+                    android:id="@+id/content_tv"
+                    android:textSize="@dimen/text_size_13"
+                    android:gravity="center_vertical|left"
+                    android:layout_alignParentLeft="true"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:textSize="@dimen/text_size_13"
+                    android:text="执行人：李德贵"
+                    android:id="@+id/operater_tv"
+                    android:layout_marginRight="10dp"
+                    android:textColor="@color/c_txt_38"
+                    android:gravity="center_vertical|right"
+                    android:layout_alignParentRight="true"
+                    android:layout_height="wrap_content" />
+            </RelativeLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_alignParentBottom="true"
+                android:orientation="horizontal"
+                android:id="@+id/ll_imgs"
+                android:gravity="center_vertical"
+                android:layout_height="125dp">
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:id="@+id/img1"
+                    android:src="@drawable/ic_launcher"
+                    android:layout_height="103dp" />
+                <View
+                    android:layout_width="11dp"
+                    android:layout_height="103dp"/>
+                <ImageView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:id="@+id/img2"
+                    android:src="@drawable/ic_launcher"
+                    android:layout_height="103dp" />
+                <View
+                    android:layout_width="11dp"
+                    android:layout_height="103dp"/>
+                <ImageView
+                    android:layout_width="0dp"
+                    android:src="@drawable/ic_launcher"
+                    android:id="@+id/img3"
+                    android:layout_weight="1"
+                    android:layout_height="103dp" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+    <include layout="@layout/layout_title_bar"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <EditText
+            android:id="@+id/edt"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:singleLine="true"
+            android:hint="请输入好友电话或者姓名"
+            android:layout_marginRight="10dp"
+            android:textColor="@color/c_txt_68"
+            android:textColorHint="@color/c_txt_88"
+            android:paddingLeft="15dp"
+            android:layout_gravity="center_vertical"
+            android:background="@drawable/land_away_bg"
+            android:textSize="@dimen/text_size_14"
+            android:layout_marginLeft="20dp"
+            android:layout_height="30dp" />
+        <TextView
+            android:id="@+id/txt_search"
+            android:clickable="true"
+            android:layout_width="80dp"
+            android:gravity="center"
+            android:textSize="@dimen/text_size_14"
+            android:textColor="@color/main_color"
+            android:layout_height="match_parent"
+            android:text="搜索"/>
+    </LinearLayout>
+    <TextView
+        android:textSize="@dimen/text_size_12"
+        android:background="@color/bg_color"
+        android:layout_width="match_parent"
+        android:lineSpacingExtra="3dp"
+        android:padding="10dp"
+        android:lineSpacingMultiplier="1.2"
+        android:text="@string/land_away"
+        android:layout_height="65dp" />
+    <FrameLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </FrameLayout>
+    <!-- 赠送 -->
+    <Button
+        android:id="@+id/btn_away"
+        android:layout_width="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="45dp"
+        android:background="@drawable/bg_btn_select"
+        android:text="赠送"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_14" />
+</LinearLayout>

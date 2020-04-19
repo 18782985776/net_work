@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.jobnew.farm.module.home.activity.EntertainmentCofirmOrderActivity">
+<include layout="@layout/layout_title_bar"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:layout_height="41dp">
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/iv_farm"
+        android:layout_height="24dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="凤凰山农场"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:id="@+id/tv_farm_name"
+        android:textSize="@dimen/text_size_13"
+        android:textColor="@color/c_txt_25"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+<View style="@style/one_dp_split_line_style"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:padding="@dimen/dp_10"
+        android:orientation="horizontal"
+        android:layout_height="81dp">
+        <ImageView
+            android:layout_width="61dp"
+            android:id="@+id/iv_product"
+            android:layout_height="61dp" />
+        <RelativeLayout
+            android:layout_marginLeft="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:gravity="bottom"
+           android:id="@+id/go"
+           android:layout_height="20dp">
+           <TextView
+               android:layout_width="wrap_content"
+               android:text="农场篝火晚会"
+               android:gravity="top"
+               android:id="@+id/tv_product_name"
+               android:layout_alignParentLeft="true"
+               android:textColor="@color/c_txt_25"
+               android:layout_height="wrap_content" />
+           <TextView
+               android:layout_width="wrap_content"
+               android:textColor="@color/c_txt_F8"
+                android:id="@+id/tv_price"
+               android:gravity="top"
+               android:text="50"
+               android:layout_alignParentRight="true"
+               android:textSize="@dimen/text_size_14"
+               android:layout_height="wrap_content" />
+           <TextView
+               android:layout_width="wrap_content"
+               android:text="￥"
+               android:layout_marginTop="2dp"
+               android:gravity="bottom"
+               android:textSize="@dimen/text_size_11"
+               android:layout_toLeftOf="@+id/tv_price"
+               android:textColor="@color/c_txt_F8"
+               android:layout_height="wrap_content" />
+       </RelativeLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+               android:layout_marginTop="20dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_height="41dp">
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:text="lldkkla"
+                    android:id="@+id/tv_intro"
+                    android:ellipsize="end"
+                    android:textColor="@color/c_txt_68"
+                    android:textSize="@dimen/text_size_12"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="数量:"
+                    android:textSize="@dimen/text_size_12"
+                    android:textColor="@color/c_txt_68"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:id="@+id/num_tv"
+                    android:text="1"
+                    android:textColor="@color/c_txt_68"
+                    android:textSize="@dimen/text_size_12"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <View style="@style/one_dp_split_line_style"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:gravity="center_vertical"
+        android:paddingRight="@dimen/dp_10"
+        android:paddingLeft="@dimen/dp_10"
+        android:layout_height="41dp">
+<TextView
+    android:layout_width="wrap_content"
+    android:gravity="center_vertical"
+    android:text="订购数量"
+    android:layout_centerVertical="true"
+    android:textSize="@dimen/text_size_13"
+    android:textColor="@color/c_txt_68"
+    android:layout_alignParentLeft="true"
+    android:layout_height="wrap_content" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:orientation="horizontal"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:layout_height="match_parent">
+            <ImageView
+                android:layout_width="25dp"
+                android:id="@+id/iv_reduce"
+                android:src="@mipmap/farm_button_reduce"
+                android:layout_height="25dp" />
+            <TextView
+                android:layout_width="25dp"
+                android:id="@+id/tv_buy"
+                android:text="1"
+                android:gravity="center"
+                android:background="#f0f0f0f0"
+                android:layout_height="25dp" />
+            <ImageView
+                android:layout_width="25dp"
+                android:id="@+id/iv_increase"
+                android:src="@mipmap/farm_button_increase"
+                android:layout_height="25dp" />
+        </LinearLayout>
+    </RelativeLayout>
+    <View style="@style/one_dp_split_line_style"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:background="@color/bg_color"
+        android:layout_height="0dp"/>
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:paddingLeft="10dp"
+      android:layout_height="41dp">
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:orientation="horizontal"
+          android:gravity="center_vertical"
+          android:layout_alignParentLeft="true"
+          android:layout_height="match_parent">
+          <TextView
+              android:layout_width="wrap_content"
+              android:gravity="center"
+              android:textSize="@dimen/text_size_13"
+              android:textColor="@color/c_txt_25"
+              android:text="合计："
+              android:layout_height="wrap_content" />
+          <TextView
+              android:layout_width="wrap_content"
+              android:text="￥"
+              android:textColor="@color/c_txt_F8"
+              android:textSize="@dimen/text_size_11"
+              android:layout_height="wrap_content" />
+          <TextView
+              android:layout_width="wrap_content"
+              android:gravity="center"
+              android:text="300.00"
+              android:id="@+id/tv_total_price"
+              android:textSize="@dimen/text_size_15"
+              android:textColor="@color/c_txt_F8"
+              android:layout_height="wrap_content" />
+      </LinearLayout>
+      <TextView
+          android:layout_width="101dp"
+          android:text="提交订单"
+          android:gravity="center"
+          android:textSize="@dimen/text_size_14"
+          android:textColor="@color/white"
+          android:layout_alignParentRight="true"
+          android:id="@+id/tv_commit"
+          android:background="@color/main_color"
+          android:layout_height="match_parent" />
+  </RelativeLayout>
+        
+      
+   
+</LinearLayout>

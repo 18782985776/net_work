@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/flowlayout_tv"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp"
+    android:layout_margin="4dp"
+    android:text="智慧农场"
+    android:textSize="@dimen/text_size_12"
+    android:background="@drawable/bg_history"
+    android:textColor="@color/c_txt_88">
+</TextView>

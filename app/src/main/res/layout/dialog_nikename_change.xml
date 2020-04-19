@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/bg_white"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_centerInParent="true"
+                android:id="@+id/dialogTitle"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:maxLines="1"
+                android:text="修改昵称"
+                android:textColor="@color/c_txt_25"
+                android:textSize="@dimen/text_size_14" />
+            <ImageView
+                android:id="@+id/titleIcon"
+                android:layout_centerInParent="true"
+                android:layout_width="35dp"
+                android:layout_height="35dp" />
+        </RelativeLayout>
+        <View
+            android:id="@+id/titleLine"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:visibility="gone"
+            android:background="@color/main_color" />
+        <LinearLayout
+            android:layout_width="150dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="80dp"
+            android:gravity="center"
+            android:maxHeight="300dp"
+            android:orientation="vertical">
+            <LinearLayout
+                android:id="@+id/content"
+                android:layout_width="150dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:maxHeight="300dp"
+                android:orientation="horizontal">
+                <EditText
+                    android:id="@+id/et_name"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:singleLine="true"
+                    android:text=""
+                    android:hint="请输入昵称"
+                    android:maxLength="10"
+                    android:focusable="true"
+                    android:textSize="@dimen/text_size_14"
+                    android:background="@null"
+                    android:layout_gravity="center_vertical"
+                    android:layout_height="wrap_content" />
+                <ImageView
+                    android:id="@+id/img_name"
+                    android:clickable="true"
+                    android:visibility="visible"
+                    android:layout_width="wrap_content"
+                    android:src="@mipmap/mine_icon_delete3"
+                    android:layout_gravity="center_vertical"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <View
+                android:layout_width="150dp"
+                android:layout_marginTop="3dp"
+                android:layout_height="0.5dp"
+                android:background="@color/bg_color" />
+        </LinearLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/bg_color" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal">
+            <View
+                android:id="@+id/cutLine"
+                android:layout_width="0.5dp"
+                android:layout_height="match_parent"
+                android:background="@color/main_color"
+                android:visibility="gone"/>
+
+            <Button
+                android:id="@+id/btn_sure"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:background="@null"
+                android:text="确定修改"
+                android:textColor="@color/main_color"
+                android:textSize="14sp" />
+            <View
+                android:id="@+id/bg_view"
+                android:layout_width="1dp"
+                android:background="@color/bg_color"
+                android:layout_height="match_parent"
+                android:visibility="visible"/>
+            <Button
+                android:id="@+id/btn_cancel"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="取消"
+                android:background="@null"
+                android:textColor="@color/c_txt_25"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

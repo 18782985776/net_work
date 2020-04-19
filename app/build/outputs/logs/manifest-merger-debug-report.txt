@@ -1,0 +1,928 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:2:1-279:12
+INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:2:1-279:12
+INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:2:1-279:12
+INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:2:1-279:12
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ba9a00ac56ad10ff9767dc1adabf8e8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.bigkoo:convenientbanner:2.0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\convenientbanner-2.0.5.aar\1df66a33d8c5f3347435ac1a4fc209e1\AndroidManifest.xml:2:1-9:12
+MERGED from [pub.devrel:easypermissions:0.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\easypermissions-0.2.1.aar\3f7dd100fb1f877d91571580c1731ddf\AndroidManifest.xml:2:1-14:12
+MERGED from [com.zhy:flowlayout-lib:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\flowlayout-lib-1.0.3.aar\d8a21b5e6a8dfcb4c919376c9152d8d2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\35abdc46281d1929dc3146654ad09d82\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\9ea85a3cb5456d6c3ce2220e094611dc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\202042d8048eb1d2230c62a44490e64c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d52a82cd564d51fef7d390b420b64efa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\a1cae97121028ce05c89a6da32b43989\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a1f869787f353ebf1d7984c66a143e3a\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.lygttpod:SuperTextView:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\SuperTextView-1.1.1.aar\56e8fe6ecb26a278ba96afd965d3b607\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.MarnonDev:EasyStatusView:v1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\EasyStatusView-v1.0.3.aar\946bad5c44dd407f61f12ae1953162f7\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.AriesHoo:UIAlertView:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\UIAlertView-1.0.3.aar\0bd73a929480db4c3a2c376fdbfe3882\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.AriesHoo:UIActionSheetView:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\UIActionSheetView-1.0.1.aar\2cc5097a34912b23a61ca7626d0e9c16\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.AriesHoo:UIProgressView:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\UIProgressView-1.0.1.aar\e102487e05c6c7572b7949110dadd23c\AndroidManifest.xml:2:1-12:12
+MERGED from [in.srain.cube:ultra-ptr:1.0.11] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\ultra-ptr-1.0.11.aar\67b997d0f2ca50d45a2815443629e802\AndroidManifest.xml:2:1-13:12
+MERGED from [com.orhanobut:logger:1.15] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\logger-1.15.aar\f6e9b1be890d173abce80124fc34b3a5\AndroidManifest.xml:2:1-8:12
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.4.0.aar\8afb9ef4ee22813af88bca4b45abc974\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.12] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.12.aar\da6a29d7b82d72ee3e874f0810049688\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\39e5aa01602da2716b160f894a6ca522\AndroidManifest.xml:15:1-21:12
+MERGED from [cn.bingoogolapple:bga-qrcodecore:1.1.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-qrcodecore-1.1.7.aar\d4e7086586fbdd2a6b59b5533cc4abea\AndroidManifest.xml:2:1-10:12
+MERGED from [cn.bingoogolapple:bga-zxing:1.1.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-zxing-1.1.7.aar\b0558999cb0cc726e987dd9026462763\AndroidManifest.xml:2:1-10:12
+MERGED from [com.missmess.coverflowview:coverflowview:1.0.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coverflowview-1.0.9.aar\05012e7f6e043195e45939815271fb1a\AndroidManifest.xml:2:1-17:12
+MERGED from [com.contrarywind:Android-PickerView:3.2.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\Android-PickerView-3.2.5.aar\2f4e532e78f767997de54ff47369621a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8dc693fefc8231a26413a7182053b465\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d5715e5120c7f1239ad2e4e5b07cb3c2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\594adde65b0dc24ed32ffc9995296693\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea87238d9c94b43b15a1e408ce2a0b42\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\998c9eb22eff23abfe926ad6082d7b6f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b5cd01305713b8835a21daf02bd60c97\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\29f353590a6b59b11e8be599e095d198\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\624b988eb5c4284913501546424f95dc\AndroidManifest.xml:17:1-31:12
+INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:2:1-279:12
+INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:2:1-279:12
+INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:2:1-279:12
+	package
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+		INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:2:1-279:12
+		INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:2:1-279:12
+		INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.CALL_PHONE
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:9:22-66
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:14:5-81
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:11:5-80
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:16:5-80
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.INTERNET
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.CAMERA
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:13:5-65
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:18:5-65
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:13:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:17:5-84
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:12:5-84
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:17:22-81
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.READ_LOGS
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:20:22-75
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:23:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:27:22-72
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:29:5-74
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:29:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:30:5-71
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:30:22-68
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:32:5-80
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:32:22-77
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:34:5-89
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:34:22-86
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:36:5-68
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:36:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:37:5-74
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:37:22-71
+application
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:39:5-277:19
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:20:5-45:19
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:20:5-45:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ba9a00ac56ad10ff9767dc1adabf8e8\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ba9a00ac56ad10ff9767dc1adabf8e8\AndroidManifest.xml:29:5-20
+MERGED from [pub.devrel:easypermissions:0.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\easypermissions-0.2.1.aar\3f7dd100fb1f877d91571580c1731ddf\AndroidManifest.xml:12:5-20
+MERGED from [pub.devrel:easypermissions:0.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\easypermissions-0.2.1.aar\3f7dd100fb1f877d91571580c1731ddf\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\35abdc46281d1929dc3146654ad09d82\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\35abdc46281d1929dc3146654ad09d82\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\202042d8048eb1d2230c62a44490e64c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\202042d8048eb1d2230c62a44490e64c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d52a82cd564d51fef7d390b420b64efa\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d52a82cd564d51fef7d390b420b64efa\AndroidManifest.xml:29:5-20
+MERGED from [in.srain.cube:ultra-ptr:1.0.11] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\ultra-ptr-1.0.11.aar\67b997d0f2ca50d45a2815443629e802\AndroidManifest.xml:11:5-20
+MERGED from [in.srain.cube:ultra-ptr:1.0.11] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\ultra-ptr-1.0.11.aar\67b997d0f2ca50d45a2815443629e802\AndroidManifest.xml:11:5-20
+MERGED from [com.missmess.coverflowview:coverflowview:1.0.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coverflowview-1.0.9.aar\05012e7f6e043195e45939815271fb1a\AndroidManifest.xml:11:5-15:19
+MERGED from [com.missmess.coverflowview:coverflowview:1.0.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coverflowview-1.0.9.aar\05012e7f6e043195e45939815271fb1a\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8dc693fefc8231a26413a7182053b465\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8dc693fefc8231a26413a7182053b465\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d5715e5120c7f1239ad2e4e5b07cb3c2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d5715e5120c7f1239ad2e4e5b07cb3c2\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\594adde65b0dc24ed32ffc9995296693\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\594adde65b0dc24ed32ffc9995296693\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea87238d9c94b43b15a1e408ce2a0b42\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea87238d9c94b43b15a1e408ce2a0b42\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\998c9eb22eff23abfe926ad6082d7b6f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\998c9eb22eff23abfe926ad6082d7b6f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b5cd01305713b8835a21daf02bd60c97\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b5cd01305713b8835a21daf02bd60c97\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\29f353590a6b59b11e8be599e095d198\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\29f353590a6b59b11e8be599e095d198\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\624b988eb5c4284913501546424f95dc\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\624b988eb5c4284913501546424f95dc\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:45:9-35
+	android:label
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:43:9-41
+	android:roundIcon
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:44:9-54
+	android:icon
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:42:9-43
+	android:allowBackup
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:41:9-35
+	android:theme
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:46:9-48
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:40:9-38
+activity#com.jobnew.farm.MainActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:47:9-49:47
+	android:launchMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:48:13-41
+activity#com.jobnew.farm.module.farm.activity.PlantingPlanAcitivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:50:9-52:73
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:52:13-70
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:51:13-71
+activity#com.jobnew.farm.module.farm.activity.BreedingPlanActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:53:9-55:73
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:55:13-70
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:54:13-70
+activity#com.jobnew.farm.module.farm.activity.PlantingSchemeActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:56:9-58:76
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:58:13-73
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:57:13-72
+activity#com.jobnew.farm.module.farm.activity.BreedingSchemeActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:59:9-61:76
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:61:13-73
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:60:13-72
+activity#com.jobnew.farm.module.farm.activity.StewardActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:62:9-64:73
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:64:13-70
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:63:13-65
+activity#com.jobnew.farm.module.farm.activity.SignboardActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:65:9-67:73
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:67:13-70
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:66:13-67
+activity#com.jobnew.farm.module.farm.activity.MonitorActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:68:9-70:73
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:70:13-70
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:69:13-65
+activity#com.jobnew.farm.module.farm.activity.ProductProcessActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:71:9-73:73
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:73:13-70
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:72:13-72
+activity#com.jobnew.farm.module.farm.activity.InsuranceActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:74:9-76:73
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:76:13-70
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:75:13-67
+activity#com.jobnew.farm.module.farm.activity.LandDetailsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:77:9-79:73
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:79:13-70
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:78:13-69
+activity#com.jobnew.farm.module.farm.activity.BreedDetailsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:80:9-82:73
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:82:13-70
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:81:13-70
+activity#com.jobnew.farm.module.farm.activity.SelectCropActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:83:9-85:73
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:85:13-70
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:84:13-68
+activity#com.jobnew.farm.module.farm.activity.ConfirmOrderActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:86:9-79
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:86:19-76
+activity#com.jobnew.farm.module.farm.activity.SettingFrequencyActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:87:9-83
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:87:19-80
+activity#com.jobnew.farm.module.loginAndRegister.activity.LoginActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:88:9-84
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:88:19-81
+activity#com.jobnew.farm.module.loginAndRegister.activity.RegisterActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:89:9-87
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:89:19-84
+activity#com.jobnew.farm.module.loginAndRegister.activity.ForgetPwdActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:90:9-88
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:90:19-85
+activity#com.jobnew.farm.module.loginAndRegister.activity.UserAgreementActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:91:9-92
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:91:19-89
+activity#com.jobnew.farm.module.home.activity.ScanActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:92:9-71
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:92:19-68
+activity#com.jobnew.farm.module.personal.activity.UserHomeActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:93:9-79
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:93:19-76
+activity#com.jobnew.farm.module.personal.activity.UserInfoActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:94:9-96:86
+	android:configChanges
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:96:13-83
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:95:13-70
+activity#com.jobnew.farm.module.farm.activity.farmActivity.FarmDetailsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:97:9-91
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:97:19-88
+activity#com.jobnew.farm.module.personal.activity.AddressManage
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:98:9-76
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:98:19-73
+activity#com.jobnew.farm.module.personal.activity.EditAddressActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:99:9-82
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:99:19-79
+activity#com.jobnew.farm.module.personal.activity.NewAddAddressActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:100:9-84
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:100:19-81
+activity#com.jobnew.farm.module.personal.activity.MyFarm.MyFarmActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:101:9-84
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:101:19-81
+activity#com.jobnew.farm.module.personal.activity.PhotoAlbumMngActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:102:9-104:86
+	android:configChanges
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:104:13-83
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:103:13-75
+activity#com.jobnew.farm.module.personal.activity.SettingActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:105:9-78
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:105:19-75
+activity#com.jobnew.farm.module.personal.activity.ChangePwdActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:106:9-80
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:106:19-77
+activity#com.jobnew.farm.module.personal.activity.AboutUsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:107:9-78
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:107:19-75
+activity#com.jobnew.farm.module.personal.activity.CustomerServiceActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:108:9-86
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:108:19-83
+activity#com.jobnew.farm.module.personal.activity.InvestmentActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:109:9-81
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:109:19-78
+activity#com.jobnew.farm.module.personal.activity.order.MyOrderActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:110:9-84
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:110:19-81
+activity#com.jobnew.farm.module.farm.activity.farmActivity.ShareUtilsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:111:9-113:52
+	android:theme
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:113:13-49
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:112:13-81
+activity#com.jobnew.farm.module.home.activity.SearchActivityForHome
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:114:9-80
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:114:19-77
+activity#com.jobnew.farm.module.personal.activity.MyWalletActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:115:9-79
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:115:19-76
+activity#com.jobnew.farm.module.farm.activity.farmActivity.PayOrderActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:116:9-118:39
+	android:exported
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:118:13-36
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:117:13-79
+activity#com.jobnew.farm.module.farm.activity.farmActivity.LoveDonationActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:119:9-92
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:119:19-89
+activity#com.jobnew.farm.module.farm.activity.farmActivity.ShippingAddressMangeAcitivty
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:120:9-100
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:120:19-97
+activity#com.jobnew.farm.module.personal.activity.HelpActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:121:9-75
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:121:19-72
+activity#com.jobnew.farm.module.personal.activity.MyFarm.LandInformationActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:122:9-93
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:122:19-90
+activity#com.jobnew.farm.module.personal.activity.MyFarm.TaskRecordActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:123:9-88
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:123:19-85
+activity#com.jobnew.farm.module.personal.activity.TopUpBalanceActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:124:9-83
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:124:19-80
+activity#com.jobnew.farm.module.personal.activity.TopUpFarmCurrencyActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:125:9-88
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:125:19-85
+activity#com.jobnew.farm.module.personal.activity.DetailActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:126:9-77
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:126:19-74
+activity#com.jobnew.farm.module.personal.activity.OrderEvaluateActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:127:9-84
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:127:19-81
+activity#com.jobnew.farm.module.personal.activity.WithdrawActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:128:9-79
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:128:19-76
+activity#com.jobnew.farm.module.personal.activity.WithDrawAlipayActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:129:9-85
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:129:19-82
+activity#com.jobnew.farm.module.personal.activity.AddAlipayActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:130:9-80
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:130:19-77
+activity#com.jobnew.farm.module.personal.activity.FeedBackActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:131:9-79
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:131:19-76
+activity#com.jobnew.farm.module.personal.activity.MyCollectionActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:132:9-83
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:132:19-80
+activity#com.jobnew.farm.module.home.activity.FarmHappyActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:133:9-76
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:133:19-73
+activity#com.jobnew.farm.module.home.activity.FarmHappyDetatilsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:134:9-84
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:134:19-81
+activity#com.jobnew.farm.module.personal.activity.order.AfterSalesActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:135:9-87
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:135:19-84
+activity#com.jobnew.farm.module.personal.activity.AfterReturnActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:136:9-138:63
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:138:13-60
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:137:13-73
+activity#com.jobnew.farm.module.home.activity.CateringDetailsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:139:9-82
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:139:19-79
+activity#com.jobnew.farm.module.farm.activity.farmActivity.ProductDetailsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:140:9-94
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:140:19-91
+activity#com.jobnew.farm.module.farm.activity.farmActivity.ProductMoreCommentActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:141:9-98
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:141:19-95
+activity#com.jobnew.farm.module.farm.activity.farmActivity.ProductGoToSource
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:142:9-89
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:142:19-86
+activity#com.jobnew.farm.module.personal.activity.BindPhoneActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:143:9-80
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:143:19-77
+activity#com.jobnew.farm.module.personal.activity.KindMyShelfActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:144:9-82
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:144:19-79
+activity#com.jobnew.farm.module.personal.activity.LogisticsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:145:9-80
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:145:19-77
+activity#com.jobnew.farm.module.home.activity.HomeEntertainmentActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:146:9-84
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:146:19-81
+activity#com.jobnew.farm.module.home.activity.EntertainmentDetailsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:147:9-87
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:147:19-84
+activity#com.jobnew.farm.module.home.activity.MyEntertainmentActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:148:9-82
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:148:19-79
+activity#com.jobnew.farm.module.home.activity.GuideActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:149:9-72
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:149:19-69
+activity#com.jobnew.farm.data.downLoad.DownActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:150:9-64
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:150:19-61
+activity#com.jobnew.farm.module.home.activity.LaunchedActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:151:9-75
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:151:19-72
+activity#com.jobnew.farm.module.personal.activity.MyFarm.PlantingPlanDetailsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:152:9-97
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:152:19-94
+activity#com.jobnew.farm.module.personal.activity.MyFarm.AddNewTaskAcitivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:153:9-89
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:153:19-86
+activity#com.jobnew.farm.module.personal.activity.MyFarm.LandAwayActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:154:9-86
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:154:19-83
+activity#com.jobnew.farm.module.personal.activity.ReleaseDynamicActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:155:9-85
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:155:19-82
+activity#com.jobnew.farm.module.farm.activity.ScanPictureActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:156:9-78
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:156:19-75
+activity#com.jobnew.farm.module.personal.activity.MyFarm.ProductProgressActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:157:9-93
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:157:19-90
+activity#com.jobnew.farm.module.home.activity.MatchFeatureActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:158:9-79
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:158:19-76
+activity#com.jobnew.farm.module.exclusive.ExclusiveLandActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:159:9-76
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:159:19-73
+activity#com.jobnew.farm.module.exclusive.ExclusiveLandDetailsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:160:9-162:73
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:162:13-70
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:161:13-74
+activity#com.jobnew.farm.module.exclusive.ConfirmExclusiveLandOrderActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:163:9-88
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:163:19-85
+activity#com.jobnew.farm.module.personal.activity.ShoppingTrolleyActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:164:9-85
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:164:19-83
+activity#com.jobnew.farm.module.home.activity.MyMatchActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:165:9-74
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:165:19-71
+activity#com.jobnew.farm.module.home.activity.MatchInfoActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:166:9-76
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:166:19-73
+activity#com.jobnew.farm.module.personal.activity.order.OrderMoreEvaAndSafActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:167:9-94
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:167:19-92
+activity#com.jobnew.farm.module.personal.activity.order.AfterDetailsActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:168:9-88
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:168:19-86
+activity#com.jobnew.farm.module.home.activity.WelcomeActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:169:9-177:20
+	android:theme
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:171:13-49
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:170:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:172:13-176:29
+action#android.intent.action.MAIN
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:173:17-69
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:173:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:175:17-77
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:175:27-74
+activity#com.lzy.imagepicker.ui.ImagePreviewDelActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:180:9-182:65
+	android:theme
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:182:13-62
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:181:13-74
+meta-data#UMENG_APPKEY
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:184:9-186:56
+	android:value
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:186:13-53
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:185:13-40
+activity#com.jobnew.farm.WBShareActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:189:9-199:20
+	android:screenOrientation
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:192:13-49
+	android:configChanges
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:191:13-63
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:190:13-44
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:194:13-198:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:195:17-92
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:195:25-89
+category#android.intent.category.DEFAULT
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:197:17-76
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:197:27-73
+activity#com.sina.weibo.sdk.component.WeiboSdkBrowser
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:200:9-204:58
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:204:13-55
+	android:exported
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:203:13-37
+	android:configChanges
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:202:13-63
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:201:13-72
+service#com.sina.weibo.sdk.net.DownloadService
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:206:9-208:40
+	android:exported
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:208:13-37
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:207:13-66
+service#com.amap.api.location.APSService
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:210:9-68
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:210:18-65
+activity#com.jobnew.farm.wxapi.WXEntryActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:212:9-217:75
+	android:screenOrientation
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:216:13-49
+	android:exported
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:215:13-36
+	android:configChanges
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:214:13-74
+	android:theme
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:217:13-72
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:213:13-50
+activity#com.jobnew.farm.wxapi.WXPayEntryActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:219:9-222:46
+	android:launchMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:222:13-43
+	android:exported
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:221:13-36
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:220:13-53
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:224:9-229:70
+	android:screenOrientation
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:228:13-47
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:229:13-67
+	android:exported
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:227:13-37
+	android:configChanges
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:226:13-85
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:225:13-60
+activity#com.alipay.sdk.app.H5AuthActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:230:9-235:70
+	android:screenOrientation
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:234:13-47
+	android:windowSoftInputMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:235:13-67
+	android:exported
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:233:13-37
+	android:configChanges
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:232:13-74
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:231:13-61
+activity#com.tencent.tauth.AuthActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:237:9-249:20
+	android:launchMode
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:239:13-44
+	android:noHistory
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:240:13-37
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:238:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:241:13-248:29
+action#android.intent.action.VIEW
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:242:17-69
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:242:25-66
+category#android.intent.category.BROWSABLE
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:245:17-78
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:245:27-75
+data
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:247:17-60
+	android:scheme
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:247:23-57
+activity#com.tencent.connect.common.AssistActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:250:9-254:75
+	android:screenOrientation
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:253:13-49
+	android:configChanges
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:252:13-74
+	android:theme
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:254:13-72
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:251:13-69
+provider#android.support.v4.content.FileProvider
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:256:9-264:20
+	android:grantUriPermissions
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:260:13-47
+	android:authorities
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:258:13-63
+	android:exported
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:259:13-37
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:257:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:261:13-263:54
+	android:resource
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:263:17-51
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:262:17-67
+meta-data#com.amap.api.v2.apikey
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:266:9-268:64
+	android:value
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:268:13-61
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:267:13-50
+activity#com.jobnew.farm.module.personal.activity.ConfirmOrderActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:269:9-82
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:269:19-80
+activity#com.jobnew.farm.module.home.activity.LocationActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:270:9-75
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:270:19-72
+activity#com.jobnew.farm.module.home.activity.MyFarmHappyOrderActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:271:9-83
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:271:19-80
+activity#com.jobnew.farm.module.home.activity.FarmHappyOrderCommentActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:272:9-88
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:272:19-85
+activity#com.jobnew.farm.module.farm.activity.farmActivity.ProductSureOrderActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:273:9-96
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:273:19-93
+activity#com.jobnew.farm.module.farm.activity.LeaveMessageActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:274:9-79
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:274:19-76
+activity#com.jobnew.farm.module.home.activity.EntertainmentCofirmOrderActivity
+ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:275:9-100
+	android:name
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml:275:19-88
+uses-sdk
+INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:7:5-9:41
+MERGED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ba9a00ac56ad10ff9767dc1adabf8e8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ba9a00ac56ad10ff9767dc1adabf8e8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.bigkoo:convenientbanner:2.0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\convenientbanner-2.0.5.aar\1df66a33d8c5f3347435ac1a4fc209e1\AndroidManifest.xml:7:5-44
+MERGED from [com.bigkoo:convenientbanner:2.0.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\convenientbanner-2.0.5.aar\1df66a33d8c5f3347435ac1a4fc209e1\AndroidManifest.xml:7:5-44
+MERGED from [pub.devrel:easypermissions:0.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\easypermissions-0.2.1.aar\3f7dd100fb1f877d91571580c1731ddf\AndroidManifest.xml:8:5-10:41
+MERGED from [pub.devrel:easypermissions:0.2.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\easypermissions-0.2.1.aar\3f7dd100fb1f877d91571580c1731ddf\AndroidManifest.xml:8:5-10:41
+MERGED from [com.zhy:flowlayout-lib:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\flowlayout-lib-1.0.3.aar\d8a21b5e6a8dfcb4c919376c9152d8d2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.zhy:flowlayout-lib:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\flowlayout-lib-1.0.3.aar\d8a21b5e6a8dfcb4c919376c9152d8d2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\35abdc46281d1929dc3146654ad09d82\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\35abdc46281d1929dc3146654ad09d82\AndroidManifest.xml:21:5-23:78
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\9ea85a3cb5456d6c3ce2220e094611dc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes.photoview:library:1.2.4] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\library-1.2.4.aar\9ea85a3cb5456d6c3ce2220e094611dc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\202042d8048eb1d2230c62a44490e64c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\202042d8048eb1d2230c62a44490e64c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d52a82cd564d51fef7d390b420b64efa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d52a82cd564d51fef7d390b420b64efa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\a1cae97121028ce05c89a6da32b43989\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\a1cae97121028ce05c89a6da32b43989\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a1f869787f353ebf1d7984c66a143e3a\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a1f869787f353ebf1d7984c66a143e3a\AndroidManifest.xml:20:5-43
+MERGED from [com.github.lygttpod:SuperTextView:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\SuperTextView-1.1.1.aar\56e8fe6ecb26a278ba96afd965d3b607\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lygttpod:SuperTextView:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\SuperTextView-1.1.1.aar\56e8fe6ecb26a278ba96afd965d3b607\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.MarnonDev:EasyStatusView:v1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\EasyStatusView-v1.0.3.aar\946bad5c44dd407f61f12ae1953162f7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.MarnonDev:EasyStatusView:v1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\EasyStatusView-v1.0.3.aar\946bad5c44dd407f61f12ae1953162f7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.AriesHoo:UIAlertView:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\UIAlertView-1.0.3.aar\0bd73a929480db4c3a2c376fdbfe3882\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.AriesHoo:UIAlertView:1.0.3] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\UIAlertView-1.0.3.aar\0bd73a929480db4c3a2c376fdbfe3882\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.AriesHoo:UIActionSheetView:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\UIActionSheetView-1.0.1.aar\2cc5097a34912b23a61ca7626d0e9c16\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.AriesHoo:UIActionSheetView:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\UIActionSheetView-1.0.1.aar\2cc5097a34912b23a61ca7626d0e9c16\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.AriesHoo:UIProgressView:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\UIProgressView-1.0.1.aar\e102487e05c6c7572b7949110dadd23c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.AriesHoo:UIProgressView:1.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\UIProgressView-1.0.1.aar\e102487e05c6c7572b7949110dadd23c\AndroidManifest.xml:8:5-10:41
+MERGED from [in.srain.cube:ultra-ptr:1.0.11] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\ultra-ptr-1.0.11.aar\67b997d0f2ca50d45a2815443629e802\AndroidManifest.xml:7:5-9:41
+MERGED from [in.srain.cube:ultra-ptr:1.0.11] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\ultra-ptr-1.0.11.aar\67b997d0f2ca50d45a2815443629e802\AndroidManifest.xml:7:5-9:41
+MERGED from [com.orhanobut:logger:1.15] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\logger-1.15.aar\f6e9b1be890d173abce80124fc34b3a5\AndroidManifest.xml:6:5-43
+MERGED from [com.orhanobut:logger:1.15] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\logger-1.15.aar\f6e9b1be890d173abce80124fc34b3a5\AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.4.0.aar\8afb9ef4ee22813af88bca4b45abc974\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.4.0.aar\8afb9ef4ee22813af88bca4b45abc974\AndroidManifest.xml:5:5-43
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.12] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.12.aar\da6a29d7b82d72ee3e874f0810049688\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.12] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\BaseRecyclerViewAdapterHelper-2.9.12.aar\da6a29d7b82d72ee3e874f0810049688\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\39e5aa01602da2716b160f894a6ca522\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\39e5aa01602da2716b160f894a6ca522\AndroidManifest.xml:19:5-43
+MERGED from [cn.bingoogolapple:bga-qrcodecore:1.1.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-qrcodecore-1.1.7.aar\d4e7086586fbdd2a6b59b5533cc4abea\AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-qrcodecore:1.1.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-qrcodecore-1.1.7.aar\d4e7086586fbdd2a6b59b5533cc4abea\AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-zxing:1.1.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-zxing-1.1.7.aar\b0558999cb0cc726e987dd9026462763\AndroidManifest.xml:6:5-8:41
+MERGED from [cn.bingoogolapple:bga-zxing:1.1.7] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\bga-zxing-1.1.7.aar\b0558999cb0cc726e987dd9026462763\AndroidManifest.xml:6:5-8:41
+MERGED from [com.missmess.coverflowview:coverflowview:1.0.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coverflowview-1.0.9.aar\05012e7f6e043195e45939815271fb1a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.missmess.coverflowview:coverflowview:1.0.9] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coverflowview-1.0.9.aar\05012e7f6e043195e45939815271fb1a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.contrarywind:Android-PickerView:3.2.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\Android-PickerView-3.2.5.aar\2f4e532e78f767997de54ff47369621a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.contrarywind:Android-PickerView:3.2.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\Android-PickerView-3.2.5.aar\2f4e532e78f767997de54ff47369621a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8dc693fefc8231a26413a7182053b465\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8dc693fefc8231a26413a7182053b465\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d5715e5120c7f1239ad2e4e5b07cb3c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d5715e5120c7f1239ad2e4e5b07cb3c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\594adde65b0dc24ed32ffc9995296693\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\594adde65b0dc24ed32ffc9995296693\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea87238d9c94b43b15a1e408ce2a0b42\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea87238d9c94b43b15a1e408ce2a0b42\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\998c9eb22eff23abfe926ad6082d7b6f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\998c9eb22eff23abfe926ad6082d7b6f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b5cd01305713b8835a21daf02bd60c97\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b5cd01305713b8835a21daf02bd60c97\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\29f353590a6b59b11e8be599e095d198\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\29f353590a6b59b11e8be599e095d198\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\624b988eb5c4284913501546424f95dc\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\624b988eb5c4284913501546424f95dc\AndroidManifest.xml:21:5-23:58
+INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ba9a00ac56ad10ff9767dc1adabf8e8\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+		INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+		ADDED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+		INJECTED from G:\workU\nongyinong\NetFarm\app\src\main\AndroidManifest.xml
+activity#com.lzy.imagepicker.ui.ImageBaseActivity
+ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:21:9-77
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:21:19-74
+activity#com.lzy.imagepicker.ui.ImageGridActivity
+ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:22:9-25:55
+	android:configChanges
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:24:13-59
+	android:theme
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:25:13-52
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:23:13-68
+activity#com.lzy.imagepicker.ui.ImageCropActivity
+ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:26:9-30:55
+	android:hardwareAccelerated
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:29:13-48
+	android:configChanges
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:28:13-59
+	android:theme
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:27:13-68
+activity#com.lzy.imagepicker.ui.ImagePreviewActivity
+ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:31:9-34:65
+	android:configChanges
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:33:13-59
+	android:theme
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:34:13-62
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:32:13-71
+provider#com.lzy.imagepicker.ImagePickerProvider
+ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:38:13-60
+	android:exported
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.lzy.widget:imagepicker:0.5.5] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\imagepicker-0.5.5.aar\2537e9b06eb7495a3eab332a9498f999\AndroidManifest.xml:37:13-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ba9a00ac56ad10ff9767dc1adabf8e8\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\35abdc46281d1929dc3146654ad09d82\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\35abdc46281d1929dc3146654ad09d82\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\202042d8048eb1d2230c62a44490e64c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\202042d8048eb1d2230c62a44490e64c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d52a82cd564d51fef7d390b420b64efa\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\d52a82cd564d51fef7d390b420b64efa\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a1f869787f353ebf1d7984c66a143e3a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\a1f869787f353ebf1d7984c66a143e3a\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d5715e5120c7f1239ad2e4e5b07cb3c2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\d5715e5120c7f1239ad2e4e5b07cb3c2\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\594adde65b0dc24ed32ffc9995296693\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\594adde65b0dc24ed32ffc9995296693\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea87238d9c94b43b15a1e408ce2a0b42\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\ea87238d9c94b43b15a1e408ce2a0b42\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\998c9eb22eff23abfe926ad6082d7b6f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\998c9eb22eff23abfe926ad6082d7b6f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b5cd01305713b8835a21daf02bd60c97\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b5cd01305713b8835a21daf02bd60c97\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\29f353590a6b59b11e8be599e095d198\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\29f353590a6b59b11e8be599e095d198\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\624b988eb5c4284913501546424f95dc\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\624b988eb5c4284913501546424f95dc\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ba9a00ac56ad10ff9767dc1adabf8e8\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\8ba9a00ac56ad10ff9767dc1adabf8e8\AndroidManifest.xml:26:9-47

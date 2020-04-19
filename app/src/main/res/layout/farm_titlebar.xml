@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:id="@+id/title_bar"
+    android:background="@mipmap/ic_main_title_bg">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+        <TextView
+            android:id="@+id/title_address_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:text="成都"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_13"
+            android:drawableRight="@mipmap/ic_select"
+            android:drawablePadding="6dp"
+            android:gravity="center"
+            android:padding="4dp"
+         />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="农场"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:visibility="visible" />
+
+
+        <ImageView
+            android:id="@+id/message_img"
+            android:layout_width="17dp"
+            android:layout_height="12dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="14dp"
+            android:background="@mipmap/ic_msg_normal"
+            android:gravity="center"
+            android:padding="4dp"
+            android:textColor="@color/white"
+            />
+
+        <ImageView
+            android:id="@+id/farm_search_img"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_marginRight="20dp"
+            android:background="@mipmap/public_icon_search1"
+            android:layout_toLeftOf="@id/message_img"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+             />
+
+    </RelativeLayout>
+</LinearLayout>

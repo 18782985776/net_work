@@ -1,0 +1,3 @@
+# Referenced at G:\workU\nongyinong\NetFarm\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:49
+-keep class com.jobnew.farm.MyApplication { <init>(...); }
+

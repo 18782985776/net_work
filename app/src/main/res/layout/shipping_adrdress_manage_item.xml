@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    android:layout_height="160dp">
+    <LinearLayout
+        android:background="@drawable/love_donation_background"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="147dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:padding="13dp"
+            android:orientation="horizontal"
+            android:layout_height="88dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:layout_height="match_parent">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:orientation="horizontal"
+                    android:layout_weight="1"
+                    >
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:id="@+id/tv_recipients"
+                        android:gravity="center_vertical"
+                        android:text="收件人：张德芳"
+                        android:textColor="#252827"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:id="@+id/tv_tel"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="联系电话：15896248964"
+                        android:textColor="#252827"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:id="@+id/tv_postcode"
+                    android:text="邮编：610000"
+                    android:layout_height="0dp" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:id="@+id/tv_address"
+                    android:text="地址：成都市吉瑞三路99号环球时代中心1-4"
+                    android:layout_height="0dp" />
+            </LinearLayout>
+        </LinearLayout>
+        <View style="@style/divider_normal"/>
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:gravity="center_vertical"
+           android:padding="13dp"
+           android:layout_height="match_parent">
+           <LinearLayout
+               android:layout_width="wrap_content"
+               android:orientation="horizontal"
+               android:gravity="center_vertical"
+               android:layout_height="match_parent">
+               <ImageView
+                   android:layout_width="17dp"
+                   android:id="@+id/img_shippingAddress_manage"
+                   android:src="@mipmap/farm_icon_selected"
+                   android:layout_height="17dp" />
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:text="默认收货地址"
+                   android:textColor="#90B659"
+                   android:layout_marginLeft="12dp"
+                   android:textSize="@dimen/text_size_12"
+                   android:layout_height="wrap_content"
+                   android:layout_alignParentTop="true"
+                   android:layout_toRightOf="@+id/img_shippingAddress_manage"
+                   android:layout_toEndOf="@+id/img_shippingAddress_manage"
+                   android:layout_marginStart="12dp" />
+           </LinearLayout>
+
+           <LinearLayout
+               android:layout_width="wrap_content"
+               android:orientation="horizontal"
+              android:layout_marginLeft="15dp"
+               android:id="@+id/deleteLayout"
+               android:gravity="center_vertical"
+               android:layout_alignParentRight="true"
+               android:layout_height="match_parent">
+               <ImageView
+                   android:layout_width="17dp"
+                    android:src="@mipmap/public_icon_delete"
+                   android:layout_height="17dp" />
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:text="删除"
+                   android:layout_marginLeft="11dp"
+                   android:textSize="@dimen/text_size_12"
+                   android:layout_height="wrap_content" />
+           </LinearLayout>
+           <LinearLayout
+               android:layout_width="wrap_content"
+               android:orientation="horizontal"
+               android:layout_toLeftOf="@+id/deleteLayout"
+               android:layout_marginRight="80dp"
+               android:id="@+id/edit_layout"
+               android:gravity="center_vertical"
+               android:layout_alignParentRight="true"
+               android:layout_height="match_parent">
+               <ImageView
+                   android:layout_width="17dp"
+                   android:src="@mipmap/mine_icon_edit"
+                   android:layout_height="17dp" />
+               <TextView
+                   android:layout_width="wrap_content"
+                   android:text="编辑"
+                   android:layout_marginLeft="11dp"
+                   android:textSize="@dimen/text_size_12"
+                   android:layout_height="wrap_content" />
+           </LinearLayout>
+       </RelativeLayout>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:background="#ededed"
+        android:layout_height="12dp"/>
+</LinearLayout>

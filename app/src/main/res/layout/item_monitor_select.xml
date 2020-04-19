@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="121dp">
+    <TextView
+        android:id="@+id/tv_monitor_name"
+        style="@style/style_tv_25"
+        android:layout_margin="@dimen/left_margin"
+        android:text="1号监控"/>
+    <View
+        style="@style/split_line_style"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="67dp"
+        android:layout_margin="@dimen/left_margin">
+
+        <ImageView
+            android:id="@+id/iv_monitor"
+            android:layout_width="67dp"
+            android:layout_height="67dp"
+            android:src="@drawable/ic_launcher" />
+
+        <TextView
+            android:id="@+id/tv_monitor_locaion"
+            style="@style/style_tv_68"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/iv_monitor"
+            android:text="监控位置：" />
+
+        <TextView
+            style="@style/style_tv_68"
+            android:layout_alignTop="@id/tv_monitor_locaion"
+            android:layout_toRightOf="@id/tv_monitor_locaion"
+            android:text="优质土地1号" />
+
+        <TextView
+            android:id="@+id/tv_monitor_belong"
+            style="@style/style_tv_68"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="@dimen/left_margin"
+            android:layout_toRightOf="@id/iv_monitor"
+            android:text="监控归属：" />
+
+        <TextView
+            style="@style/style_tv_68"
+            android:layout_alignBottom="@id/tv_monitor_belong"
+            android:layout_toRightOf="@id/tv_monitor_belong"
+            android:text="农场" />
+        <TextView
+            android:id="@+id/tv_demand"
+            android:layout_width="61dp"
+            android:layout_height="24dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:background="@drawable/bg_btn_90"
+            android:textColor="@color/main_color"
+            android:text="查看"/>
+    </RelativeLayout>
+</LinearLayout>

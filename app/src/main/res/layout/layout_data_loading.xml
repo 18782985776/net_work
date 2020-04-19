@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_color"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ProgressBar
+        style="@style/style_loading_progress"
+        android:layout_width="65dp"
+        android:layout_height="65dp"/>
+
+    <TextView
+        android:id="@+id/data_loading_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/data_loading_frl"
+        android:textColor="@color/c_txt_88"
+        android:textSize="15dp"
+        android:layout_marginTop="8dp"
+        android:text="正在加载..."/>
+
+</LinearLayout>

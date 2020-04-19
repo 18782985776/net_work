@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="AlertPositiveColor">#2196F3</color>
+    <color name="AlertNegativeColor">#262f36</color>
+    <!--字体颜色-->
+    <color name="province_line_border">#C7C7C7</color>
+    <color name="c_txt_00">#000000</color>//黑色
+    <color name="c_txt_7b">#7b7b7b</color>//灰色
+    <color name="c_txt_25">#252827</color>
+    <color name="c_txt_38">#383938</color>
+    <color name="c_txt_68">#686868</color>
+    <color name="c_txt_88">#888888</color>
+    <color name="c_txt_108">#EEEEEE</color>
+    <color name="c_txt_F8">#F8491A</color>
+    <color name="c_txt_9E">#9ECC5B</color>
+    <color name="c_fire">#EE0B2B</color>
+    <!--背景颜色，分割线-->
+    <color name="white">#ffffff</color>
+    <color name="bg_color">#ededed</color>  <!--背景颜色-->
+    <color name="bg_color2">#e6e6e6</color>
+    <color name="line_color">#e3e3e3</color>  <!--分割线颜色-->
+    <color name="transparent">#00000000</color> <!--背景透明-->
+
+    <color name="bg_male">#A8F5F8</color>  <!--男 背景色-->
+    <color name="bg_femina">#F286A7</color>  <!--女 背景色-->
+
+    <!--其他颜色-->
+    <color name="main_color">#90b659</color>  <!--主色蓝绿色-->
+    <color name="btn_bg_color">#9ECC5B</color> <!--按钮背景绿色-->
+    <color name="main_auxiliary_color">#EEF4E5</color> <!--辅助主色蓝绿色-->
+    <color name="other_yellow_fa">#FA9B16</color>  <!--黄色-->
+    <color name="other_red">#FF2F47</color>  <!--红色-->
+    <color name="other_3a">#3AC7A4</color>
+    <color name="other_31">#31B6D1</color>
+</resources>

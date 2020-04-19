@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="66dp"
+    android:layout_marginTop="10dp"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/left_margin"
+        android:layout_marginTop="14dp"
+        android:drawableLeft="@mipmap/farm_icon_cash"
+        android:drawablePadding="10dp"
+        android:text="花果山农场代金券"
+        android:textColor="@color/c_txt_25"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_money"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/tv_name"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/tv_name"
+        android:text="100元"
+        android:textColor="@color/c_txt_25"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/iv_select"
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/right_margin"
+        android:layout_marginTop="13dp"
+        android:src="@drawable/selector_cb1" />
+
+    <TextView
+        android:id="@+id/tv_hit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="40dp"
+        android:drawableLeft="@mipmap/farm_icon_selected3"
+        android:drawablePadding="5dp"
+        android:text="仅限花果山农场使用"
+        android:textColor="@color/c_txt_88"
+        android:textSize="11sp" />
+
+    <TextView
+        android:id="@+id/tv_date_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="8dp"
+        android:layout_toLeftOf="@+id/tv_date"
+        android:text="过期时间："
+        android:textColor="@color/c_txt_88"
+        android:textSize="11sp" />
+
+    <TextView
+        android:id="@+id/tv_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="8dp"
+        android:layout_marginRight="@dimen/right_margin"
+        android:text="2017-05-20"
+        android:textColor="@color/c_txt_88"
+        android:textSize="11sp" />
+
+    <View
+        style="@style/split_line_style"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>

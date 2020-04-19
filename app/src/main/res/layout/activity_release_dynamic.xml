@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/layout_title_bar"/>
+    <EditText
+        android:id="@+id/et_content"
+        android:layout_width="match_parent"
+        android:hint="输入你想要说的话，100个字符以内"
+        android:maxLength="200"
+        android:gravity="top"
+        android:textSize="@dimen/text_size_14"
+        android:padding="@dimen/margin_10"
+        android:background="@color/white"
+        android:layout_height="150dp" />
+    <GridView
+        android:id="@+id/feed_gridview"
+        android:numColumns="4"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <View style="@style/divider_normal"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/submit_eva"
+        android:gravity="center"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:background="@drawable/bg_btn_select"
+        android:text="发布"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_16"
+        android:layout_height="45dp" />
+</LinearLayout>

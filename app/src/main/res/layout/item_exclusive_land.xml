@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="101dp">
+
+    <ImageView
+        android:id="@+id/iv_land"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerVertical="true"
+        android:src="@mipmap/default_image" />
+
+    <TextView
+        android:id="@+id/tv_land_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="14dp"
+        android:layout_toRightOf="@+id/iv_land"
+        android:text=""
+        android:textColor="@color/c_txt_38"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_area_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/tv_land_name"
+        android:layout_centerVertical="true"
+        android:text="土地面积："
+        android:textColor="@color/c_txt_68"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/tv_area"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/tv_area_title"
+        android:layout_toRightOf="@+id/tv_area_title"
+        android:text="0㎡"
+        android:textColor="@color/c_txt_68"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/tv_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/iv_land"
+        android:layout_alignLeft="@id/tv_land_name"
+        android:drawableLeft="@mipmap/farm_icon_address1"
+        android:drawablePadding="5dp"
+        android:ellipsize="end"
+        android:maxEms="13"
+        android:maxLines="1"
+        android:text=""
+        android:textColor="@color/c_txt_68"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/tv_unit"
+        style="@style/style_tv_68"
+        android:layout_alignBottom="@id/tv_land_name"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/right_margin"
+        android:text="/㎡/月"
+        android:textSize="14dp" />
+
+    <TextView
+        android:id="@+id/tv_unit_prive"
+        style="@style/style_tv_price"
+        android:layout_alignBottom="@id/tv_unit"
+        android:layout_toLeftOf="@id/tv_unit"
+        android:text="¥0.00"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_address_distance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/tv_address"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/right_margin"
+        android:text="0KM"
+        android:textColor="@color/c_txt_88"
+        android:textSize="11sp" />
+</RelativeLayout>

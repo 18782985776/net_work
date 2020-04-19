@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.jobnew.farm.module.home.activity.MatchFeatureActivity">
+    <View
+        android:layout_width="match_parent"
+        android:background="@mipmap/ic_main_title_bg"
+        android:layout_height="20dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_40"
+        android:background="@mipmap/ic_main_title_bg"
+        android:paddingLeft="@dimen/dp_10"
+        android:paddingRight="10dp">
+
+        <ImageView
+            android:id="@+id/back_img"
+            android:layout_width="10dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_height="17dp"
+            android:background="@mipmap/ic_back_arrow" />
+
+        <TextView
+            android:id="@+id/show_addresstv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/back_img"
+            android:layout_marginLeft="20dp"
+            android:text="成都"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_13" />
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="6dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/show_addresstv"
+            android:layout_marginLeft="5dp"
+            android:background="@mipmap/ic_select" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:textSize="@dimen/text_size_15"
+            android:textColor="@color/white"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="比赛专栏"
+            android:layout_height="match_parent" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:textColor="@color/white"
+            android:id="@+id/my_match_tv"
+            android:textSize="@dimen/text_size_13"
+            android:text="我的"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:background="@color/white"
+    android:layout_height="41dp">
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tab_match"
+        android:layout_width="0dp"
+        android:layout_height="41dp"
+        android:layout_weight="3"
+        app:tabBackground="@color/white"
+        app:tabIndicatorColor="@color/main_color"
+        app:tabIndicatorHeight="2dp"
+        app:tabSelectedTextColor="@color/main_color"
+        app:tabTextAppearance="@style/MyTab"
+        app:tabTextColor="@color/c_txt_68" />
+
+    <View
+        android:layout_width="1dp"
+        android:background="@color/line_color"
+        android:layout_height="20dp"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:text="距离最近"
+        android:background="@color/white"
+        android:id="@+id/tv_orderby_address"
+        android:textSize="@dimen/text_size_14"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:layout_height="match_parent" />
+</LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="11dp"
+        android:background="@color/line_color"/>
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:id="@+id/m_pager"
+        android:layout_height="match_parent"></android.support.v4.view.ViewPager>
+
+</LinearLayout>

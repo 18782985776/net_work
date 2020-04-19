@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<DatePicker
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"></DatePicker>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@color/main_color"
+        android:orientation="horizontal"
+        android:layout_height="40dp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="取消"
+            android:id="@+id/tv_cancle"
+            android:textColor="@color/white"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="确定"
+            android:id="@+id/tv_sure"
+            android:textColor="@color/white"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="@color/main_color"
+        android:layout_height="40dp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="年"
+            android:textColor="@color/white"
+            android:layout_height="match_parent" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="月"
+            android:textColor="@color/white"
+            android:layout_height="match_parent" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="日"
+            android:textColor="@color/white"
+            android:layout_height="match_parent" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="时"
+            android:textColor="@color/white"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="分"
+            android:textColor="@color/white"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="150dp">
+    <com.jobnew.farm.module.home.TimeDaePage.WheelView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:id="@+id/wheel_year"
+        android:layout_height="match_parent" />
+    <com.jobnew.farm.module.home.TimeDaePage.WheelView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:id="@+id/wheel_month"
+        android:layout_height="match_parent" />
+    <com.jobnew.farm.module.home.TimeDaePage.WheelView
+        android:layout_width="0dp"
+        android:id="@+id/wheel_day"
+        android:layout_weight="1"
+        android:layout_height="match_parent" />
+    <com.jobnew.farm.module.home.TimeDaePage.WheelView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:id="@+id/wheel_hours"
+        android:layout_height="match_parent" />
+    <com.jobnew.farm.module.home.TimeDaePage.WheelView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:id="@+id/wheel_minute"
+        android:layout_height="match_parent" />
+</LinearLayout>
+
+</LinearLayout>

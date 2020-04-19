@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/rl_farm"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:clickable="true">
+
+        <ImageView
+            android:id="@+id/img_farm"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_12"
+             />
+
+        <TextView
+            android:id="@+id/txt_farm_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_toRightOf="@+id/img_farm"
+            android:text="---"
+            android:textColor="@color/c_txt_25"
+            android:textSize="@dimen/text_size_14" />
+
+        <ImageView
+            android:id="@+id/img_contact"
+            android:clickable="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/txt_farm_name"
+            android:src="@mipmap/mine_icon_contact" />
+
+        <TextView
+            android:id="@+id/txt_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_12"
+            android:text="等待商家处理退货申请"
+            android:textColor="@color/main_color"
+            android:textSize="@dimen/text_size_12" />
+    </RelativeLayout>
+
+    <View style="@style/divider_normal" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+        <ImageView
+           android:id="@+id/img_order"
+            android:layout_width="60dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/margin_12"
+            android:layout_marginRight="16dp"
+            android:layout_height="60dp" />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_gravity="center_vertical"
+            android:layout_height="60dp">
+            <TextView
+                android:id="@+id/txt_order_item"
+                android:layout_width="wrap_content"
+                android:text="----"
+                android:textSize="@dimen/text_size_14"
+                android:textColor="@color/c_txt_25"
+                android:layout_marginBottom="14dp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/txt_order_intro"
+                android:layout_width="wrap_content"
+                android:maxLines="2"
+                android:minLines="2"
+                android:ellipsize="end"
+                android:textColor="@color/c_txt_68"
+                android:textSize="@dimen/text_size_10"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_marginRight="@dimen/margin_12"
+            android:orientation="horizontal"
+            android:layout_gravity="center_vertical"
+            android:layout_height="60dp">
+            <TextView
+                android:id="@+id/txt_price"
+                android:layout_width="wrap_content"
+                android:text="---"
+                android:textSize="@dimen/text_size_14"
+                android:textColor="@color/c_txt_88"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_toRightOf="@+id/txt_price"
+                android:layout_width="wrap_content"
+                android:text=""
+                android:textSize="@dimen/text_size_12"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/txt"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="14dp"
+                android:text="数量："
+                android:textSize="@dimen/text_size_12"
+                android:textColor="@color/c_txt_68"
+                android:layout_below="@+id/txt_price"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/txt_quantity"
+                android:layout_width="wrap_content"
+                android:layout_below="@id/txt_price"
+                android:layout_marginTop="14dp"
+                android:text=""
+                android:textSize="@dimen/text_size_12"
+                android:textColor="@color/c_txt_68"
+                android:layout_toRightOf="@+id/txt"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+    </LinearLayout>
+    <View style="@style/divider_normal" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_height="36dp">
+        <TextView
+            android:id="@+id/order_item_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="---"
+            android:textColor="@color/c_txt_88"
+            android:textSize="@dimen/text_size_10"
+            android:layout_marginLeft="@dimen/margin_12"
+            android:layout_alignTop="@+id/order_item_total"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/order_item_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_10"
+            android:layout_marginTop="@dimen/margin_10"
+            android:text="(含运费 : ￥10)"
+            android:textColor="@color/c_txt_88"
+            android:textSize="@dimen/text_size_12" />
+        <TextView
+            android:id="@+id/order_item_price"
+            android:layout_toLeftOf="@+id/order_item_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_10"
+            android:layout_marginTop="@dimen/margin_10"
+            android:text="￥.."
+            android:textColor="@color/other_red"
+            android:textSize="@dimen/text_size_18" />
+        <TextView
+            android:layout_toLeftOf="@+id/order_item_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_10"
+            android:layout_marginTop="@dimen/margin_10"
+            android:text="合计:"
+            android:textColor="@color/c_txt_88"
+            android:textSize="@dimen/text_size_12" />
+    </RelativeLayout>
+    <View style="@style/divider_normal" />
+    <LinearLayout
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:gravity="center_vertical"
+        android:layout_height="55dp">
+        <TextView
+            android:id="@+id/txt_sn"
+            android:layout_width="wrap_content"
+            android:textColor="@color/c_txt_88"
+            android:textSize="@dimen/text_size_11"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:text="订单编号：---"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/txt_logisticsNo"
+            android:layout_width="wrap_content"
+            android:textColor="@color/c_txt_88"
+            android:layout_marginTop="8dp"
+            android:textSize="@dimen/text_size_11"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:text="货运单号：---"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View style="@style/divider_normal"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_height="36dp">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/txt_platform_in"
+            android:clickable="true"
+            android:layout_width="95dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/margin_10"
+            android:text="申请平台客服介入"
+            android:textColor="@color/c_txt_88"
+            android:textSize="@dimen/text_size_10"
+            android:gravity="center"
+            android:background="@drawable/bg_color_bg"
+            android:layout_height="21dp" />
+
+        <TextView
+            android:id="@+id/txt_cancel_application"
+            android:layout_width="75dp"
+            android:layout_height="21dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/margin_10"
+            android:background="@drawable/bg_color_bg"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="撤销售后申请"
+            android:textColor="@color/c_txt_88"
+            android:textSize="@dimen/text_size_10" />
+
+        <TextView
+            android:id="@+id/txt_application_details"
+            android:layout_width="60dp"
+            android:layout_height="21dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="@dimen/margin_10"
+            android:background="@drawable/bg_color_main"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="申请详情"
+            android:textColor="@color/main_color"
+            android:textSize="@dimen/text_size_10" />
+    </LinearLayout>
+    <View style="@style/divider_normal"
+        android:layout_height="@dimen/margin_10"/>
+</LinearLayout>

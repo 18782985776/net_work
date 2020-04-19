@@ -1,0 +1,11 @@
+int attr esv_empty 0x7f010002
+int attr esv_error 0x7f010001
+int attr esv_loading 0x7f010000
+int attr esv_noNet 0x7f010003
+int layout esv_layout_default 0x7f020000
+int string app_name 0x7f030000
+int[] styleable EasyStatusView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003 }
+int styleable EasyStatusView_esv_empty 2
+int styleable EasyStatusView_esv_error 1
+int styleable EasyStatusView_esv_loading 0
+int styleable EasyStatusView_esv_noNet 3

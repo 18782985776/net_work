@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="101dp"
+    android:baselineAligned="false">
+<ImageView
+    android:layout_width="81dp"
+    android:layout_height="81dp"
+    android:src="@drawable/ic_launcher"
+    android:id="@+id/img_farm_details"/>
+    <LinearLayout
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:layout_height="0dp">
+            <TextView
+                android:layout_alignParentLeft="true"
+                android:layout_width="wrap_content"
+                android:text="优质土鸭"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:text="农家特产、肉质好、个大、易养殖"
+            android:layout_height="0dp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="养殖周期6个月"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

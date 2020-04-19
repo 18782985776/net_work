@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/margin_12"
+    android:background="@color/c_txt_108">
+    <!-- 我的收获地址item -->
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_white_picker">
+        <RelativeLayout
+            android:id="@+id/rl_manage1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txt_receipt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="收货人 : ..."
+                android:textSize="@dimen/text_size_14"
+                android:textColor="@color/c_txt_25"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="18dp"
+                android:layout_marginTop="@dimen/margin_10"/>
+            <TextView
+                android:id="@+id/txt_address_phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="@dimen/text_size_12"
+                android:textColor="@color/c_txt_25"
+                android:layout_marginRight="18dp"
+                android:layout_alignParentRight="true"
+                android:text="15883811356"/>
+            <TextView
+                android:id="@+id/txt_code"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txt_receipt"
+                android:textSize="@dimen/text_size_12"
+                android:textColor="@color/c_txt_68"
+                android:layout_marginTop="15dp"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="@dimen/margin_10"
+                android:lineSpacingExtra="6dp"
+                android:text="邮编：610000"
+                android:layout_centerInParent="true"/>
+            <TextView
+                android:id="@+id/txt_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txt_code"
+                android:textSize="@dimen/text_size_12"
+                android:textColor="@color/c_txt_68"
+                android:layout_marginTop="15dp"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="@dimen/margin_10"
+                android:lineSpacingExtra="6dp"
+                android:text="四川省成都是武侯区天府二街138号蜀都中心1栋3单元2204"
+                android:layout_centerInParent="true"/>
+
+        </RelativeLayout>
+        <View style="@style/divider_normal"
+            android:layout_marginTop="15dp"
+            android:id="@+id/view_manage1"
+            android:layout_below="@+id/rl_manage1"/>
+        <RelativeLayout
+            android:layout_below="@+id/view_manage1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp">
+            <LinearLayout
+                android:id="@+id/txt_is_default"
+                android:layout_width="wrap_content"
+                android:clickable="true"
+                android:orientation="horizontal"
+                android:layout_centerVertical="true"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:id="@+id/img_is_default"
+                    android:layout_width="12dp"
+                    android:layout_marginLeft="18dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_gravity="center_vertical"
+                    android:background="@mipmap/ic_cb_nocheck"
+                    android:layout_height="12dp" />
+                <TextView
+                    android:textColor="@color/c_txt_88"
+                    android:text="默认收货地址"
+                    android:textSize="@dimen/text_size_12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <TextView
+                android:id="@+id/edit_address"
+                android:clickable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@mipmap/mine_icon_edit"
+                android:drawablePadding="@dimen/margin_10"
+                android:layout_toLeftOf="@+id/del_address"
+                android:textSize="@dimen/text_size_10"
+                android:textColor="@color/c_txt_88"
+                android:text="编辑"
+                android:layout_marginRight="30dp"
+                android:layout_centerVertical="true" />
+
+            <TextView
+                android:id="@+id/del_address"
+                android:clickable="true"
+                android:drawableLeft="@mipmap/mine_icon_delete2"
+                android:drawablePadding="@dimen/margin_10"
+                android:layout_centerVertical="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:textSize="@dimen/text_size_10"
+                android:layout_marginRight="18dp"
+                android:textColor="@color/c_txt_88"
+                android:text="删除" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

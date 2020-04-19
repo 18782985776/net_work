@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.allen.library.SuperTextView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/stv_plant_cycle"
+    style="@style/price_item_style"
+    android:layout_marginBottom="@dimen/item_split_height"
+    app:sLeftIconMarginLeft="@dimen/left_margin"
+    app:sLeftIconRes="@drawable/selector_cb2"
+    app:sLeftTextMarginLeft="15dp"
+    app:sLeftTextString="种植周期">
+
+    <include
+        android:id="@+id/layout_plant_cycle"
+        layout="@layout/layout_quantity_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/tv_right_day" />
+
+    <TextView
+        android:id="@+id/tv_right_day"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="@dimen/right_margin"
+        android:text="天"
+        android:textColor="@color/c_txt_88"
+        android:textSize="12sp" />
+</com.allen.library.SuperTextView>

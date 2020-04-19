@@ -1,0 +1,2322 @@
+[
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_main_type.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_main_type.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_action_plan.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_action_plan.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_entertainment.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_my_entertainment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_payment.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_order_payment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guid.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_guid.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_farm_details_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\listview_farm_details_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_cycle_type.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_cycle_type.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_pwd.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_forget_pwd.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_data_loading.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_data_loading.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_farm_happy_not_spending_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_farm_happy_not_spending_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_confirm_order_product.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_confirm_order_product.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection_farmhouse.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_collection_farmhouse.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_return_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_return_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kind_my_shelf.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_kind_my_shelf.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.5\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\farm_details_recycle_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\farm_details_recycle_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_window_mine.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\pop_window_mine.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shipping_adrdress_manage_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\shipping_adrdress_manage_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_help.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_help.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_down.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_down.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shopping_trolley.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_shopping_trolley.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quick_view_load_more.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\2.9.12\\res\\layout\\quick_view_load_more.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_farm_exclusive.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_my_farm_exclusive.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_date_type.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_date_type.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bazaar_item_three.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_bazaar_item_three.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_gender.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\dialog_gender.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_match_feature.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_match_feature.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_evaluation.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_order_evaluation.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_planting_plan_details.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_planting_plan_details.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_farm_happy_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_farm_happy_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_quantity_view.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_quantity_view.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bazaar_item_one.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_bazaar_item_one.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_evaluate.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_order_evaluate.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_farm.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_farm.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_address.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_add_address.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_easy_status_view.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_easy_status_view.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_signboard.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_signboard.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_withdraw.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_withdraw.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_progress_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\48b71fbc04b9daa11120671092ba9f8798925de0\\output\\res\\layout\\layout_progress_view.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_farm_planting.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_my_farm_planting.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_camera_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\layout\\adapter_camera_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_crop_select2.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_crop_select2.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_result.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\pay_result.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_nikename_change.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\dialog_nikename_change.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\match_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\match_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_competition.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_collection_competition.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_collection_pruduct_fragment.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_collection_pruduct_fragment.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_entertainment_details.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_entertainment_details.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_album_img.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_photo_album_img.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\love_donation_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\love_donation_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choice_manager.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_choice_manager.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_love_donation.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_love_donation.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabflowfayout_textview.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\tabflowfayout_textview.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bestowal.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_bestowal.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_minor_type.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_minor_type.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_farm.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_farm.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exclusive_land_details.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_exclusive_land_details.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_net_error.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_net_error.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_match.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_match.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_evaluater_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_order_evaluater_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tab_exclusive_land.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_tab_exclusive_land.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_planting_plan.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_planting_plan.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_goods.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_order_goods.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_new_task.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_add_new_task.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_refresh_load.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_refresh_load.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_pwd.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_change_pwd.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_my_qr_code.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\dialog_my_qr_code.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_date_time_layout.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\pop_date_time_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_grow_record.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_grow_record.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_land_details.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_land_details.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adressmanage_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_adressmanage_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_my.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_order_my.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_folder.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\layout\\pop_folder.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_details.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_date_time_layout.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\pop_date_time_layout.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_personal_land.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_collection_personal_land.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_leave_message.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_leave_message.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_pay_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_manage.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_address_manage.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_task_record.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_task_record.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_crop.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\layout\\activity_image_crop.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_farm_happy_spended_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_farm_happy_spended_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_land_away_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_land_away_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_community.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_community.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_go_to_source.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\header_go_to_source.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_entertainment.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_entertainment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\farm_titlebar.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\farm_titlebar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_confirm_exclusive_land_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_confirm_exclusive_land_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_order_child.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_my_order_child.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_farm_happy_detatils.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_farm_happy_detatils.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_entertainment_cofirm_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_entertainment_cofirm_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_return.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_return.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_grow_record.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_grow_record.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection_personal_land.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_collection_personal_land.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_top_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\layout\\include_top_bar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kind_my_shelf_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_kind_my_shelf_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_help.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_help.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_planting_plan.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_planting_plan.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bind_phone.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_bind_phone.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_grid.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_net_error.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_net_error.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_farm_reap.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_my_farm_reap.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kind_my_shelf.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_kind_my_shelf.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_folder.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\layout\\pop_folder.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_top_up_balance.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_top_up_balance.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_breed_scheme.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_breed_scheme.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_crop_select.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_crop_select.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_farm_exclusive.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_my_farm_exclusive.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_more_comment.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_product_more_comment.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_message.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\dialog_add_message.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\quick_view_load_more.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1ce781c761630e099991c7ca53c998609a820d58\\output\\res\\layout\\quick_view_load_more.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_guide.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_guide.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_signature_change.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\dialog_signature_change.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_action_sheet_view.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIActionSheetView\\1.0.1\\res\\layout\\layout_action_sheet_view.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_farm_details.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_farm_details.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_farm_happy_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_farm_happy_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_product_source.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_product_source.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_custom_scheme_minor_type.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_custom_scheme_minor_type.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pay_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_pay_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_plat_form_in.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\dialog_plat_form_in.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_farm.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_farm.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_my_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_activity.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_collection_activity.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bazaar_item_one.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_bazaar_item_one.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_product_process.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_product_process.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_entertainment_cofirm_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_entertainment_cofirm_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_sales.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_sales.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_payment.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_order_payment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_return_item_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_return_item_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_message_layout.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\my_message_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_return.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_return.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_home_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_user_home_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_nikename_change.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\dialog_nikename_change.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_breed_plan.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_breed_plan.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_match_info.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_match_info.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_message.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\dialog_add_message.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_collection.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_collection.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_go_to_source.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_product_go_to_source.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_release_dynamic.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_release_dynamic.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\esv_layout_default.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.MarnonDev\\EasyStatusView\\v1.0.3\\res\\layout\\esv_layout_default.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_refresh_load.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_refresh_load.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_folder_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\layout\\adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f72f771f3cf2239dcc893024d4f53eaceb24b1bf\\output\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabflowfayout_textview.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\tabflowfayout_textview.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_match_feature.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_match_feature.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_product_process.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_product_process.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0214045281865a98fa8f06e630566899c79817f5\\output\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_data_empty.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_data_empty.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_farm_details_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\listview_farm_details_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_withdrwa_alipay_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_withdrwa_alipay_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cb4c4856af301b519e09fce49da4a898b043426\\output\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection_activity.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_collection_activity.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_farm_happy_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_farm_happy_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_shopping_trolley_product.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_shopping_trolley_product.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_loading.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_loading.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_window_mine.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\pop_window_mine.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_delivery.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_order_delivery.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_insurance.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_insurance.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bazaar_item_three.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_bazaar_item_three.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_match_info.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_match_info.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_confirm_order_other.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_confirm_order_other.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_home.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_user_home.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_my.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_order_my.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_custom_scheme_minor_type.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_custom_scheme_minor_type.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_photo_date_type.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_photo_date_type.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_top_up_fram.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_top_up_fram.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_competition.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_collection_competition.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_sales.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_sales.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\entertainment_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\entertainment_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan_picture.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_scan_picture.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_main_type.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_main_type.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launched.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_launched.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_collection.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_grid.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_farm_happy_detatils.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_farm_happy_detatils.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exclusive_land_details.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_exclusive_land_details.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selcet_crop.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_selcet_crop.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_evaluation.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_order_evaluation.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_shopping_trolley.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_shopping_trolley.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\match_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\match_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection_farmhouse.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_collection_farmhouse.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logistics.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_logistics.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_data_error.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_data_error.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_farm_happy.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_farm_happy.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_eva_saf.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_order_eva_saf.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_sales_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_sales_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.5\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_shopping_trolley_product.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_shopping_trolley_product.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_top_bar.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\layout\\include_top_bar.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_custom_scheme_main_type.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_custom_scheme_main_type.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_farm_happy_detatils.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_farm_happy_detatils.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cb4c4856af301b519e09fce49da4a898b043426\\output\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kind_my_shelf_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_kind_my_shelf_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_data_empty.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_data_empty.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_confirm_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_confirm_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_image_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_home_image_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_exclusive_land.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_exclusive_land.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_breed_details.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_breed_details.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_goods.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_order_goods.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_confirm_order_main.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_confirm_order_main.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_breed_scheme.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_breed_scheme.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_wallet.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_wallet.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.5\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sheme_main_type_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_sheme_main_type_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_confirm_exclusive_land_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_confirm_exclusive_land_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0214045281865a98fa8f06e630566899c79817f5\\output\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_picture.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_picture.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_preview.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\layout\\activity_image_preview.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_album_img.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_photo_album_img.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_refresh.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_select_refresh.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_two_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_home_two_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launched.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_launched.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_scheme.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_scheme.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logistics_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_logistics_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_refresh.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_select_refresh.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_leave_message.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_leave_message.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_task_record.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_task_record.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_banner_item_view.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\home_banner_item_view.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logistics_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_logistics_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_personal_land.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_collection_personal_land.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_guide.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_guide.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_steward.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_steward.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_data_error.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_data_error.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_farm_planting.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_my_farm_planting.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_new_task.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_add_new_task.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection_production.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_collection_production.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_planting_scheme.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_planting_scheme.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_exclusive_land.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_exclusive_land.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_farm_happy.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_farm_happy.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_photo_date_type.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_photo_date_type.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_catering_details.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_catering_details.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\socialize_share_menu_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\socialize_share_menu_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bestowal.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_bestowal.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_progress_view.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIProgressView\\1.0.1\\res\\layout\\layout_progress_view.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_for_home.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_search_for_home.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rapid_layout_refresh_load_recyclerview.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\rapid_layout_refresh_load_recyclerview.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_service.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_customer_service.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_order_delivery.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_order_delivery.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_crop_select2.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_crop_select2.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shipping_adrdress_manage_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\shipping_adrdress_manage_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_farm_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\listview_farm_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_my_qr_code.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\dialog_my_qr_code.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_confirm_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_confirm_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guid.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_guid.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget_pwd.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_forget_pwd.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_land_information.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_land_information.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_down.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_down.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_confirm_order_voucher.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_confirm_order_voucher.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_data_loading.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_data_loading.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_tab_exclusive_land.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_tab_exclusive_land.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_detail_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selcet_crop.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_selcet_crop.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_two_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_home_two_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_happy_farmhouse.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_collection_happy_farmhouse.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_gender.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\dialog_gender.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_alipay.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_add_alipay.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_collection.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_collection.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exclusive_land.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_exclusive_land.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_happy_farmhouse.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_collection_happy_farmhouse.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choice_manager.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_choice_manager.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_address.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_edit_address.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ietm_match_details.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\ietm_match_details.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_album_mng.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_photo_album_mng.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_collection_succeed.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_collection_succeed.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_customer_service.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_customer_service.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_preview.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\layout\\activity_image_preview.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ietm_match_details.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\ietm_match_details.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection_production.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_collection_production.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title_bar.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_title_bar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_take_match.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_take_match.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_activity.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_user_activity.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\poputils_layout.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\poputils_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_farm_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\listview_farm_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bind_phone.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_bind_phone.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_farm_breed.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_my_farm_breed.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_images.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_images.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_frequency.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_setting_frequency.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_farm_reap.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_my_farm_reap.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_easy_status_view.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_easy_status_view.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_product_comment.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_product_comment.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\match_title_bar.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\match_title_bar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_more_comment.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_product_more_comment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_plat_form_in.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\dialog_plat_form_in.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection_competition.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_collection_competition.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_details.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_details.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_banner_item_view.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\home_banner_item_view.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_go_to_source.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_product_go_to_source.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_confirm_order_main.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_confirm_order_main.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_farm_happy_detatils.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_farm_happy_detatils.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_farm_collection.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_farm_collection.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_album_mng.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_photo_album_mng.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alert_view.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\layout\\layout_alert_view.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_farm_breed.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_my_farm_breed.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan_picture.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_scan_picture.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_detail_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_evaluate.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_order_evaluate.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_entertainment_details.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_entertainment_details.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_message_layout.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\my_message_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_home_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_user_home_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_farm_happy_not_spending_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_farm_happy_not_spending_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_picture.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_picture.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_land_details.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_land_details.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\convenientbanner\\2.0.5\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection_competition.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_collection_competition.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rapid_layout_refresh_load_recyclerview.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\rapid_layout_refresh_load_recyclerview.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header_go_to_source.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\header_go_to_source.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_order_child.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_my_order_child.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\farm_titlebar.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\farm_titlebar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cb4c4856af301b519e09fce49da4a898b043426\\output\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.5\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\poputils_layout.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\poputils_layout.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choice_manager_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\choice_manager_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_crop.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\layout\\activity_image_crop.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_insurance.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_insurance.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_collection.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_farm_collection.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_farm_collection.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bazaar.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_bazaar.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scan.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection_activity.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_collection_activity.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_photo_type.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_photo_type.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_confirm_order_product.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_confirm_order_product.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_top_up_balance.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_top_up_balance.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\farm_details_recycle_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\farm_details_recycle_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_eva_saf_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_order_eva_saf_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_shopping_trolley.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_shopping_trolley.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_frequency.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_setting_frequency.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_date_type.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_date_type.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_title_bar.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_title_bar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_planting_scheme.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_planting_scheme.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_monitor_select.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_monitor_select.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_steward.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_steward.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_confirm_order_other.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_confirm_order_other.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_pwd.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_change_pwd.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_product_comment.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_product_comment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rapid_layout_recyclerview.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\rapid_layout_recyclerview.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_planting_plan_details.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_planting_plan_details.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_action_plan.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_action_plan.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_land_away.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_land_away.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\match_title_bar.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\match_title_bar.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_confirm_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_confirm_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_sure_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_product_sure_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_entertainment.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_entertainment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_farm.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_farm.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_match.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_match.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_order.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_my_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_for_home.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_search_for_home.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_investment.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_investment.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_loading.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_loading.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_minor_type.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_minor_type.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_breed_plan.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_breed_plan.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_folder_list_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\layout\\adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_home.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_user_home.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_withdrwa_alipay.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_withdrwa_alipay.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_result.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\pay_result.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_love_donation.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_love_donation.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_evaluater_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_order_evaluater_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rapid_layout_recyclerview.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\rapid_layout_recyclerview.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_release_dynamic.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_release_dynamic.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_investment.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_investment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_action_sheet_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\072029360dc807e41b9b19389b035d97452bdeef\\output\\res\\layout\\layout_action_sheet_view.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_entertainment.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_home_entertainment.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\entertainment_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\entertainment_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_crop_select.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_crop_select.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_custom_scheme_main_type.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_custom_scheme_main_type.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address_manage.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_address_manage.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\esv_layout_default.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\66fcb9764590f956c06cc77b9f7042490f64211d\\output\\res\\layout\\esv_layout_default.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_sure_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_product_sure_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_land_away_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_land_away_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_product_source.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_product_source.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_cycle_type.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_cycle_type.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_address_pick.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\pop_address_pick.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_farm_happy_spended_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_farm_happy_spended_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_address.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_add_address.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_sheme_main_type_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_sheme_main_type_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_signature_change.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\dialog_signature_change.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_return_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_return_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_activity.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_collection_activity.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_collection_succeed.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_collection_succeed.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shopping_trolley.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_shopping_trolley.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_quantity_view.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\layout_quantity_view.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_list_view.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_search_list_view.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_details_comment.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\product_details_comment.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_community.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\fragment_community.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_eva_saf_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_order_eva_saf_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_land_away.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_land_away.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_entertainment.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_home_entertainment.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_confirm_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_confirm_order.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_image_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_home_image_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_monitor_select.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_monitor_select.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feed_back.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_withdrwa_alipay.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_withdrwa_alipay.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_details_comment.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\product_details_comment.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_address_mange_acitivty.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_shipping_address_mange_acitivty.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_collection_pruduct_fragment.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\layout_collection_pruduct_fragment.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_address_pick.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\pop_address_pick.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\love_donation_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\love_donation_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shipping_address_mange_acitivty.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_shipping_address_mange_acitivty.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_farm_details.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_farm_details.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_activity.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_user_activity.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_return_item_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_return_item_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_scheme.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_scheme.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_address.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_edit_address.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cb4c4856af301b519e09fce49da4a898b043426\\output\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_scheme_photo_type.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_scheme_photo_type.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_signboard.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_signboard.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_farm_happy_order.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_farm_happy_order.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_my_entertainment.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_my_entertainment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_details.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\socialize_share_menu_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\socialize_share_menu_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choice_manager_item.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\choice_manager_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_camera_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\layout\\adapter_camera_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_withdrwa_alipay_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_withdrwa_alipay_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_activity_my_wallet.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_activity_my_wallet.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_breed_details.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_breed_details.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_catering_details.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_catering_details.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_images.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_images.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_confirm_order_voucher.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_confirm_order_voucher.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_sales_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_sales_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bazaar.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_bazaar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_land_information.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_land_information.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_withdraw.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_withdraw.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_image_list_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\layout\\adapter_image_list_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_exclusive_land.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_exclusive_land.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_take_match.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\fragment_take_match.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_wallet.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_my_wallet.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logistics.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_logistics.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_list_view.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_search_list_view.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_alert_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\layout\\layout_alert_view.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_alipay.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_add_alipay.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_activity_my_wallet.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\item_activity_my_wallet.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_top_up_fram.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\activity_top_up_fram.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_eva_saf.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_order_eva_saf.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_adressmanage_item.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_adressmanage_item.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_collection_personal_land.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\layout\\item_collection_personal_land.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_image_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\layout\\adapter_image_list_item.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_after_details.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\layout\\activity_after_details.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\layout\\notification_template_media.xml"
+    }
+]

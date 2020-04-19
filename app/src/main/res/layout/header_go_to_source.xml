@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="300dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="@dimen/dp_10">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="档案编号"
+                android:textColor="@color/c_txt_25"
+                android:textSize="@dimen/text_size_14" />
+
+            <TextView
+                android:id="@+id/word_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="2017060116250010"
+                android:textColor="@color/c_txt_68"
+                android:textSize="@dimen/text_size_13" />
+        </RelativeLayout>
+
+        <View style="@style/one_dp_split_line_style" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="@dimen/dp_10">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="产品名称"
+                android:textColor="@color/c_txt_25"
+                android:textSize="@dimen/text_size_14" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="大白菜"
+                android:id="@+id/tv_product_name"
+                android:textColor="@color/c_txt_68"
+                android:textSize="@dimen/text_size_13" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="@color/line_color" />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="@dimen/dp_10">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="所在农场"
+                android:textColor="@color/c_txt_25"
+                android:textSize="@dimen/text_size_14" />
+
+            <TextView
+                android:id="@+id/farm_name_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="花果山农场"
+                android:textColor="@color/c_txt_68"
+                android:textSize="@dimen/text_size_13" />
+        </RelativeLayout>
+
+        <View style="@style/one_dp_split_line_style" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/dp_10"
+            android:paddingRight="@dimen/dp_10">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="农场地址"
+                android:textColor="@color/c_txt_25"
+                android:textSize="@dimen/text_size_14" />
+
+            <TextView
+                android:id="@+id/farm_address_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:drawableLeft="@mipmap/farm_icon_address1"
+                android:drawablePadding="5dp"
+                android:text="成都市武侯区天府二街"
+                android:textColor="@color/c_txt_68"
+                android:textSize="@dimen/text_size_13" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_10"
+            android:background="@color/line_color" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="@dimen/dp_10">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="责任人"
+                android:textColor="@color/c_txt_25"
+                android:textSize="@dimen/text_size_14" />
+
+            <TextView
+                android:id="@+id/manager_name_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="张德芳"
+                android:textColor="@color/c_txt_68"
+                android:textSize="@dimen/text_size_13" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_10"
+            android:background="@color/line_color" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical"
+            android:text="成长记录"
+            android:textColor="@color/c_txt_25" />
+    </LinearLayout>
+</LinearLayout>

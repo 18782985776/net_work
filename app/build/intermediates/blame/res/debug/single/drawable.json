@@ -1,0 +1,1242 @@
+[
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_loading.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIProgressView\\1.0.1\\res\\drawable\\dialog_loading.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_add_message.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_add_message.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_mine.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_white_mine.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_right_selector_normal.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_right_selector_normal.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_web.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_add_img.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_add_img.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_copyurl.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_copyurl.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_select_no2.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_select_no2.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_activity_over.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_activity_over.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_collection_succeed.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_collection_succeed.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.lygttpod\\SuperTextView\\1.1.1\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_single_selector_normal.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_single_selector_normal.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_checked.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\drawable\\selector_item_checked.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_btn_bg.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_back_icon.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_back_icon.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_select_yes.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\btn_select_yes.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_loading.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\48b71fbc04b9daa11120671092ba9f8798925de0\\output\\res\\drawable\\dialog_loading.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_placeholder.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\shape_placeholder.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_grid_camera_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\drawable\\selector_grid_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_sheet_single.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\072029360dc807e41b9b19389b035d97452bdeef\\output\\res\\drawable\\action_sheet_single.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_video.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_placeholder.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\shape_placeholder.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_middle_selector_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_middle_selector_normal.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_select_no.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\btn_select_no.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_right_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_right_selector.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_web.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_activity_over.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_activity_over.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_filter.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\selector_filter.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_btn_bg.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_btn_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_color.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\edit_color.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\semicircle_background_shape.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\semicircle_background_shape.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_plat.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_dialog_plat.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_select_no3.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_select_no3.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_plat.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_dialog_plat.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_background.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\pop_background.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_color_25.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_color_25.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_icon.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\selector_icon.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_skip_text.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_skip_text.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_entertainment.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_button_entertainment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_transparency.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_transparency.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_color.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\selector_bg_color.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_no.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_no.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_white.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.lygttpod\\SuperTextView\\1.1.1\\res\\drawable\\selector_white.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cb2.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\selector_cb2.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\commucation_selector.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\commucation_selector.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_selector.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\tab_home_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_take_match.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_take_match.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_sheet_top.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIActionSheetView\\1.0.1\\res\\drawable\\action_sheet_top.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_match_over.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_match_over.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_bazaar.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_bazaar.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_picker.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_white_picker.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow_wallet.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_yellow_wallet.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_collection.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\selector_collection.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_right_selector_pressed.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_right_selector_pressed.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plant_tag_background.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\plant_tag_background.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_farm_select.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\tab_farm_select.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_confirm.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_dialog_confirm.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_back_press.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\drawable\\selector_back_press.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow_two.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_yellow_two.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_color_main.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_color_main.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_middle_selector_normal.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_middle_selector_normal.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_community_selector.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\tab_community_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_color_25.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_color_25.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dialog_confirm.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_dialog_confirm.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_more.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_more.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d36cfc7a442cec5965ae0778bfce31d4c478e94b\\output\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_select.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\cb_select.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_select.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_btn_select.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_white.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_music.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pickerview_btn.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3cb4c4856af301b519e09fce49da4a898b043426\\output\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_background.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\pop_background.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_mine.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_white_mine.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cb2.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\selector_cb2.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_select_yes.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\btn_select_yes.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_middle_selector.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_middle_selector.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_select_yes2.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_select_yes2.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cb3.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\selector_cb3.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_collection.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\selector_collection.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_select_no.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\btn_select_no.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_right_selector_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_right_selector_normal.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\2.9.12\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_copyurl.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_copyurl.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_join_activity.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_join_activity.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_ok.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\drawable\\selector_top_ok.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_delete.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_delete.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_sheet_bottom.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIActionSheetView\\1.0.1\\res\\drawable\\action_sheet_bottom.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_filter.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\selector_filter.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_icon.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\selector_icon.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bg_color.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\selector_bg_color.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_select_no2.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_select_no2.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_transparency.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_transparency.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_sheet_middle.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIActionSheetView\\1.0.1\\res\\drawable\\action_sheet_middle.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_select_no3.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_select_no3.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_no.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_no.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_sex_femina.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_sex_femina.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_color.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\edit_color.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_90.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_btn_90.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_90.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_btn_90.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\semicircle_background_shape.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\semicircle_background_shape.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_edit_bg.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_right_selector.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_right_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_sheet_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\072029360dc807e41b9b19389b035d97452bdeef\\output\\res\\drawable\\action_sheet_bottom.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.CymChad\\BaseRecyclerViewAdapterHelper\\2.9.12\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_try.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_try.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_color_bg.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_color_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cb1.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\selector_cb1.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\land_away_bg.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\land_away_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_farm_select.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\tab_farm_select.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_left_selector_normal.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_left_selector_normal.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_entertainment.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_button_entertainment.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_single_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_single_selector.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_suyuan.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_button_suyuan.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_mine_select.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\tab_mine_select.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_sex_male.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_sex_male.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_copy.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_copy.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_picker.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_white_picker.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cb1.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\selector_cb1.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_middle_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_middle_selector.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_right_selector_pressed.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_right_selector_pressed.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_sex_male.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_sex_male.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_single_selector_pressed.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_single_selector_pressed.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_matching.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_matching.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fav.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_fav.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_yellow.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\land_away_bg.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\land_away_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_check_img.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\selector_check_img.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cb3.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\selector_cb3.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_add_img.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_add_img.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plant_tag_background.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\plant_tag_background.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_history.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_history.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_white.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_menu_default.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_check_img.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\selector_check_img.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_music.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cb5.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\selector_cb5.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level_list_set_empty.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\level_list_set_empty.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_left_selector_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_left_selector_normal.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_sina.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_color_bg.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_color_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pickerview_btn.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.contrarywind\\Android-PickerView\\3.2.5\\res\\drawable\\selector_pickerview_btn.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_back_press.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\drawable\\selector_back_press.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_left_selector_pressed.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_left_selector_pressed.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_join_activity.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_join_activity.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_matching.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_matching.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_top_ok.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\drawable\\selector_top_ok.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_collection_succeed.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_collection_succeed.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_checked.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\drawable\\selector_item_checked.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\love_donation_background.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\love_donation_background.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_color_68.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_color_68.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_more.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_more.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_sheet_single.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIActionSheetView\\1.0.1\\res\\drawable\\action_sheet_single.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_video.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bazaar_select.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\tab_bazaar_select.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_home_selector.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\tab_home_selector.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_select.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\cb_select.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pop.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_pop.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1ce781c761630e099991c7ca53c998609a820d58\\output\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_delete.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_delete.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_bazaar.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_bazaar.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cb6.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\selector_cb6.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fav.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_fav.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_middle_selector_pressed.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_middle_selector_pressed.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cb6.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\selector_cb6.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_select.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_btn_select.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_select.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_select.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_history.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_history.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_menu_default.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow_two.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_yellow_two.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_left_selector.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_left_selector.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\love_donation_background.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\love_donation_background.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_color_68.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_color_68.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_white.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d36cfc7a442cec5965ae0778bfce31d4c478e94b\\output\\res\\drawable\\selector_white.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_single_selector_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_single_selector_normal.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_select_yes2.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_select_yes2.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pop.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_pop.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_button_suyuan.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_button_suyuan.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_try.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_try.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_mine_select.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\tab_mine_select.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_bg.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_skip_text.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_skip_text.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_sex_femina.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_sex_femina.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_match_over.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_match_over.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_sheet_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\072029360dc807e41b9b19389b035d97452bdeef\\output\\res\\drawable\\action_sheet_top.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_copy.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_copy.png"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yes.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_yes.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_sheet_middle.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\072029360dc807e41b9b19389b035d97452bdeef\\output\\res\\drawable\\action_sheet_middle.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_yellow.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_edit_bg.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yellow_wallet.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_yellow_wallet.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_select.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_select.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_middle_selector_pressed.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_middle_selector_pressed.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_single_selector_pressed.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_single_selector_pressed.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_grid_camera_bg.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\drawable\\selector_grid_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\1ce781c761630e099991c7ca53c998609a820d58\\output\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_color_main.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_color_main.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_sina.png",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_sina.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_community_selector.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\tab_community_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_back_icon.png",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\umeng_socialize_back_icon.png"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_yes.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_yes.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\level_list_set_empty.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\level_list_set_empty.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_add_message.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\bg_add_message.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\commucation_selector.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\commucation_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_left_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_left_selector.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_cb5.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\drawable\\selector_cb5.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_single_selector.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.github.AriesHoo\\UIAlertView\\1.0.3\\res\\drawable\\alert_btn_single_selector.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_bazaar_select.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\tab_bazaar_select.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_take_match.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\drawable\\bg_take_match.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert_btn_left_selector_pressed.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d07fcfaa158b30ae22f2254e9f6b0cdd85099725\\output\\res\\drawable\\alert_btn_left_selector_pressed.xml"
+    }
+]

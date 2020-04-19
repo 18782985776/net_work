@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_color"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_title_bar" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <com.allen.library.SuperTextView
+                        android:id="@+id/stv_record_number"
+                        style="@style/stv_item_style"
+                        app:sLeftTextString="档案编号"
+                        app:sRightTextString="" />
+
+                    <com.allen.library.SuperTextView
+                        android:id="@+id/stv_land_number"
+                        style="@style/stv_item_style"
+                        app:sLeftTextString="土地编号"
+                        app:sRightTextString="0" />
+
+                    <com.allen.library.SuperTextView
+                        android:id="@+id/stv_land_area"
+                        style="@style/stv_item_style"
+                        android:layout_marginTop="10dp"
+                        app:sLeftTextString="土地面积"
+                        app:sRightTextString="0㎡" />
+
+                    <com.allen.library.SuperTextView
+                        android:id="@+id/stv_land_unit_price"
+                        style="@style/stv_item_style"
+                        app:sLeftTextString="土地单价"
+                        app:sRightTextString="¥0.00/㎡/天" />
+
+                    <com.allen.library.SuperTextView
+                        android:id="@+id/stv_rental_period"
+                        style="@style/stv_item_style"
+                        android:layout_marginBottom="10dp"
+                        android:visibility="gone"
+                        app:sLeftTextString="租赁日期"
+                        app:sRightTextString="12个月" />
+
+                    <com.allen.library.SuperTextView
+                        android:id="@+id/stv_land_affiliation"
+                        style="@style/stv_item_style"
+                        app:sLeftTextString="土地归属"
+                        app:sRightTextString=""
+                        app:sRightTextStringRightIconRes="@mipmap/farm_icon_more2" />
+
+                    <com.allen.library.SuperTextView
+                        android:id="@+id/stv_land_address"
+                        style="@style/stv_item_style"
+                        app:sLeftTextString="土地地址">
+
+                        <TextView
+                            android:id="@+id/tv_address"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="@dimen/right_margin"
+                            android:layout_marginLeft="100dp"
+                            android:ellipsize="end"
+                            android:maxLines="1"
+                            android:drawableLeft="@mipmap/farm_icon_address1"
+                            android:drawablePadding="5dp"
+                            android:gravity="center_vertical"
+                            android:text=""
+                            android:textColor="@color/c_txt_68"
+                            android:textSize="13sp" />
+                    </com.allen.library.SuperTextView>
+
+                    <com.allen.library.SuperTextView
+                        android:id="@+id/stv_land_valid_date"
+                        style="@style/stv_item_style"
+                        app:sLeftTextString="有效日期"
+                        app:sRightTextString="" />
+
+                    <com.allen.library.SuperTextView
+                        android:id="@+id/stv_land_name_card"
+                        style="@style/stv_item_style"
+                        android:layout_marginTop="10dp"
+                        app:sLeftTextString="土地名片"
+                        app:sRightTextString="" />
+
+                    <com.allen.library.SuperTextView
+                        android:id="@+id/stv_crop"
+                        style="@style/stv_item_style"
+                        app:sLeftTextString="种植作物"
+                        app:sRightTextString="" />
+
+                    <com.allen.library.SuperTextView
+                        android:id="@+id/stv_steward"
+                        style="@style/stv_item_style"
+                        app:sLeftTextString="执行管家"
+                        app:sRightTextString="" />
+
+                    <TextView
+                        android:id="@+id/tv_intro"
+                        android:layout_width="match_parent"
+                        android:layout_height="46dp"
+                        android:background="@color/white"
+                        android:gravity="center_vertical"
+                        android:paddingLeft="@dimen/left_margin"
+                        android:text=""
+                        android:textColor="@color/c_txt_68"
+                        android:textSize="13sp"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </ScrollView>
+
+            <TextView
+                android:id="@id/tv_save"
+                android:layout_width="match_parent"
+                android:layout_height="46dp"
+                android:background="@color/btn_bg_color"
+                android:gravity="center"
+                android:text="将土地赠送给好友"
+                android:textColor="@color/white"
+                android:textSize="14dp" />
+        </LinearLayout>
+
+        <include layout="@layout/layout_easy_status_view" />
+    </FrameLayout>
+</LinearLayout>

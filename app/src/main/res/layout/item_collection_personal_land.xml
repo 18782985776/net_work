@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="102dp">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:id="@+id/farmlistview_item_layout"
+        android:layout_width="match_parent"
+        android:layout_height="101dp">
+
+        <ImageView
+            android:layout_width="81dp"
+            android:layout_height="81dp"
+            android:id="@+id/land_img"
+            android:scaleType="centerCrop"
+            android:src="@drawable/farm_picture"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/land_nametv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="开心土地1号"
+                    android:gravity="top"
+                    android:textColor="@color/c_txt_38"
+                    android:textSize="@dimen/text_size_15" />
+
+                <ImageView
+                    android:id="@+id/type_tv"
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:scaleType="centerCrop"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"
+                   />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="￥"
+                       android:layout_marginBottom="5dp"
+                        android:textSize="@dimen/text_size_11"
+                        android:textColor="@color/c_txt_F8"
+                        android:layout_height="wrap_content" />
+                <TextView
+                    android:id="@+id/price_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2.5"
+                    android:gravity="top"
+                    android:textColor="@color/c_txt_F8"
+                    android:textSize="@dimen/text_size_15" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/c_txt_68"
+                    android:id="@+id/unitName"
+                   android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:textSize="@dimen/text_size_11"
+                    android:text="/㎡/月"
+                    android:layout_height="wrap_content" />
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="3"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/discripeTv_personal_land"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="3"
+                    android:gravity="center|left"
+                    android:text="肥沃的土地，适合种各种玉米，花生，青菜，西红柿等。"
+                    android:textColor="@color/c_txt_68"
+                    android:textSize="@dimen/text_size_12" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/landAreatv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="bottom|left"
+                    android:textColor="@color/c_txt_88"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="总面积 15㎡"
+                    android:textSize="@dimen/text_size_12" />
+              <View android:layout_width="1dp"
+                  android:layout_marginLeft="10dp"
+                  android:background="@color/bg_color"
+                  android:layout_marginRight="10dp"
+                  android:layout_height="12dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:gravity="bottom|center_horizontal"
+                    android:text="库存 2㎡"
+                    android:id="@+id/land_storetv"
+                    android:textColor="@color/c_txt_88"
+                    android:textSize="@dimen/text_size_11"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:background="#e3e3e3"
+        android:layout_height="1dp"/>
+</LinearLayout>

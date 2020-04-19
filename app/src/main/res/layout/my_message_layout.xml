@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+
+    android:layout_width="match_parent"
+    android:layout_height="71dp">
+    <View style="@style/one_dp_split_line_style"/>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_weight="1"
+    android:layout_marginLeft="@dimen/dp_10"
+    android:layout_marginRight="@dimen/dp_10"
+    android:gravity="center_vertical"
+    android:layout_height="0dp">
+    <ImageView
+        android:layout_width="28dp"
+        android:background="@null"
+        android:id="@+id/head_img_message"
+        android:layout_height="28dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="关键词"
+        android:layout_marginLeft="@dimen/dp_10"
+        android:textSize="@dimen/text_size_14"
+        android:id="@+id/tv_user_name"
+        android:textColor="@color/c_txt_38"
+        android:gravity="center_vertical"
+        android:layout_height="wrap_content" />
+    <View
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="2017-4-19"
+        android:id="@+id/tv_date"
+        android:layout_marginRight="@dimen/dp_10"
+        android:gravity="center_vertical"
+        android:layout_height="wrap_content" />
+</LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginLeft="48dp"
+        android:gravity="center_vertical"
+        android:textColor="@color/c_txt_68"
+        android:textSize="@dimen/text_size_13"
+        android:id="@+id/tv_message"
+        android:text="看起来还不错！你们先玩儿着。"
+        android:layout_height="0dp" />
+</LinearLayout>

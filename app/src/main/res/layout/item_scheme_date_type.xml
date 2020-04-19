@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_marginBottom="@dimen/item_split_height"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.allen.library.SuperTextView
+        android:id="@+id/stv_name"
+        style="@style/price_item_style"
+        app:sLeftTextColor="@color/c_txt_38"
+        app:sLeftIconMarginLeft="@dimen/left_margin"
+        app:sLeftIconRes="@drawable/selector_cb2"
+        app:sRightTextString="¥0.00" >
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/c_txt_25"
+            android:layout_marginLeft="37dp"
+            android:layout_centerVertical="true"
+            android:textSize="14sp"
+            android:text="播种"/>
+        <TextView
+            android:id="@+id/tv_unit_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/tv_name"
+            android:layout_marginLeft="4dp"
+            android:text="（¥0.00/㎡）"
+            android:textColor="@color/c_txt_88"
+            android:textSize="13sp" />
+    </com.allen.library.SuperTextView>
+
+    <com.allen.library.SuperTextView
+        android:id="@+id/stv_date"
+        style="@style/price_item_style"
+        app:sLeftTextMarginLeft="36dp"
+        app:sLeftTextString="播种日期"
+        app:sRightTextString="2017-06-08"
+        app:sRightTextColor="@color/c_txt_38"
+        app:sRightTextSize="12sp"
+        app:sRightTextStringRightIconRes="@mipmap/farm_icon_more3" />
+</LinearLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/item_split_height"
+    android:orientation="vertical">
+
+    <com.allen.library.SuperTextView
+        android:id="@+id/stv_photo"
+        style="@style/price_item_style"
+        app:sLeftIconMarginLeft="@dimen/left_margin"
+        app:sLeftIconRes="@drawable/selector_cb2"
+        app:sRightTextString="¥0.00">
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="37dp"
+            android:text="拍照"
+            android:textColor="@color/c_txt_25"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_unit_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="4dp"
+            android:layout_toRightOf="@id/tv_name"
+            android:text="（¥0.00/张）"
+            android:textColor="@color/c_txt_88"
+            android:textSize="13sp" />
+    </com.allen.library.SuperTextView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="36dp">
+
+        <TextView
+            style="@style/style_tv_38"
+            android:layout_marginRight="10dp"
+            android:text="数量" />
+
+        <include
+            android:id="@+id/layout_photo_count"
+            layout="@layout/layout_quantity_view" />
+
+        <TextView
+            style="@style/style_tv_38"
+            android:layout_marginLeft="10dp"
+            android:text="张" />
+    </LinearLayout>
+
+    <View style="@style/split_line_style" />
+
+    <com.allen.library.SuperTextView
+        android:id="@+id/stv_date"
+        style="@style/price_item_style"
+        app:sLeftTextMarginLeft="36dp"
+        app:sLeftTextString="拍照日期"
+        app:sRightTextColor="@color/c_txt_38"
+        app:sRightTextSize="12sp"
+        app:sRightTextString="2017-06-08"
+        app:sRightTextStringRightIconRes="@mipmap/farm_icon_more3" />
+
+</LinearLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="61dp">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:gravity="center"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/txt_time_one"
+                android:layout_width="wrap_content"
+                android:text="09:23"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/c_txt_68"
+                android:textSize="@dimen/text_size_12"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/txt_time_two"
+                android:layout_below="@id/txt_time_one"
+                android:layout_width="wrap_content"
+                android:text="2017-5-26"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/c_txt_68"
+                android:textSize="@dimen/text_size_14"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+      <ImageView
+          android:layout_width="1dp"
+          android:background="@color/bg_color"
+          android:layout_gravity="center_vertical"
+          android:layout_marginLeft="20dp"
+          android:layout_marginRight="20dp"
+          android:layout_height="25dp" />
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:gravity="center"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/txt_detail"
+                android:layout_width="120dp"
+                android:text="账户充值1000ge"
+                android:layout_centerHorizontal="true"
+                android:textColor="@color/c_txt_25"
+                android:textSize="@dimen/text_size_13"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/txt_amount_d"
+                android:layout_below="@id/txt_detail"
+                android:layout_width="wrap_content"
+                android:text="¥100.00"
+                android:visibility="gone"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/c_txt_25"
+                android:textSize="@dimen/text_size_15"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/txt_type"
+                android:layout_width="wrap_content"
+                android:text="充值网农比"
+                android:textColor="@color/main_color"
+                android:textSize="@dimen/text_size_12"
+                android:layout_marginTop="@dimen/dp_10"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/dp_10"
+                android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/txt_balance"
+            android:layout_width="wrap_content"
+            android:text="余额：¥200.00"
+            android:textColor="@color/c_txt_68"
+            android:textSize="@dimen/text_size_12"
+            android:layout_marginRight="@dimen/margin_10"
+            android:layout_marginBottom="@dimen/margin_10"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_height="wrap_content" />
+        </RelativeLayout>
+    </LinearLayout>
+    <View style="@style/divider_normal"/>
+</LinearLayout>

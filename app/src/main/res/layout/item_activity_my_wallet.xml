@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/bg_color"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="348dp"
+        android:background="@mipmap/ic_vouchers"
+        android:layout_marginTop="13dp"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_height="113dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_height="30dp">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="花果山农场代金券"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:textColor="@color/c_txt_38"
+                android:textSize="@dimen/text_size_14"
+                android:layout_height="match_parent" />
+            <TextView
+                android:layout_width="0dp"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:text="注：该币可以在所有农场使用"
+                android:textColor="@color/c_txt_88"
+                android:textSize="@dimen/text_size_10"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="10"
+                    android:textColor="@color/other_yellow_fa"
+                    android:textSize="40dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="元"
+                    android:layout_marginLeft="8dp"
+                    android:textColor="@color/c_txt_25"
+                    android:textSize="@dimen/text_size_14"
+                    android:layout_gravity="center_vertical"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="X 1"
+                    android:layout_marginLeft="16dp"
+                    android:textColor="@color/c_txt_88"
+                    android:textSize="@dimen/text_size_10"
+                    android:layout_gravity="center_vertical"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <ImageView
+                android:layout_width="1dp"
+                android:layout_gravity="center_vertical"
+                android:background="@color/bg_color"
+                android:layout_height="44dp" />
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent">
+                <TextView
+                    android:layout_width="61dp"
+                    android:text="去使用"
+                    android:gravity="center"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="18dp"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_12"
+                    android:background="@drawable/bg_yellow_two"
+                    android:layout_height="26dp" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:text="过期时间：2019-05-01"
+                    android:gravity="center"
+                    android:textColor="@color/c_txt_88"
+                    android:layout_marginBottom="10dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_alignParentBottom="true"
+                    android:textSize="@dimen/text_size_12"
+                    android:layout_height="wrap_content" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

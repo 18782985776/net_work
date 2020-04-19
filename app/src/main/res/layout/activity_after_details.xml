@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/layout_title_bar"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/bg_color"
+        android:layout_height="40dp">
+        <TextView
+            android:id="@+id/txt_is_why"
+            android:layout_width="wrap_content"
+            android:text="退货原因"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/margin_10"
+            android:textColor="@color/c_txt_38"
+            android:textSize="@dimen/text_size_14"
+            android:layout_height="40dp" />
+        <TextView
+            android:id="@+id/txt_is_get"
+            android:layout_width="wrap_content"
+            android:text=""
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textColor="@color/main_color"
+            android:textSize="@dimen/text_size_14"
+            android:paddingRight="@dimen/margin_10"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/txt_why"
+        android:layout_width="match_parent"
+        android:text=""
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/margin_10"
+        android:textColor="@color/c_txt_68"
+        android:textSize="@dimen/text_size_14"
+        android:background="@color/white"
+        android:layout_height="40dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:text="退款金额 "
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/margin_10"
+        android:textColor="@color/c_txt_38"
+        android:textSize="@dimen/text_size_14"
+        android:background="@color/bg_color"
+        android:layout_height="40dp" />
+    <TextView
+        android:id="@+id/txt_money"
+        android:layout_width="match_parent"
+        android:text=""
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/margin_10"
+        android:textColor="@color/c_txt_68"
+        android:textSize="@dimen/text_size_14"
+        android:background="@color/white"
+        android:layout_height="40dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:text="退货说明 "
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/margin_10"
+        android:textColor="@color/c_txt_38"
+        android:textSize="@dimen/text_size_14"
+        android:background="@color/bg_color"
+        android:layout_height="40dp" />
+    <TextView
+        android:id="@+id/txt_intro"
+        android:layout_width="match_parent"
+        android:padding="@dimen/margin_10"
+        android:text=""
+        android:paddingLeft="@dimen/margin_10"
+        android:lineSpacingExtra="3dp"
+        android:lineSpacingMultiplier="1.2"
+        android:textColor="@color/c_txt_68"
+        android:textSize="@dimen/text_size_14"
+        android:background="@color/white"
+        android:layout_height="100dp" />
+    <TextView
+        android:id="@+id/txt_pic"
+        android:layout_width="match_parent"
+        android:text="图片凭证 "
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/margin_10"
+        android:textColor="@color/c_txt_38"
+        android:textSize="@dimen/text_size_14"
+        android:background="@color/bg_color"
+        android:layout_height="40dp" />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:background="@color/white"
+        android:padding="@dimen/margin_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

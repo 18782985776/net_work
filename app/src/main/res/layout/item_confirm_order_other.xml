@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.allen.library.SuperTextView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/stv_other"
+    style="@style/price_item_style"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="41dp"
+    app:sRightTextColor="@color/c_txt_68"
+    app:sRightTextSize="15sp"/>

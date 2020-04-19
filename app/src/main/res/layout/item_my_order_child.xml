@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/ll"
+        android:clickable="true"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+        <ImageView
+            android:id="@+id/img_title_img"
+            android:layout_width="60dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/margin_12"
+            android:layout_marginRight="16dp"
+            android:layout_height="60dp" />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginRight="20dp"
+            android:layout_gravity="center_vertical"
+            android:layout_height="60dp">
+            <TextView
+                android:id="@+id/txt_name"
+                android:layout_width="wrap_content"
+                android:text="---"
+                android:textSize="@dimen/text_size_14"
+                android:textColor="@color/c_txt_25"
+                android:layout_marginBottom="14dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/txt_intro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:minLines="2"
+                android:text="..."
+                android:textColor="@color/c_txt_68"
+                android:textSize="@dimen/text_size_10" />
+        </LinearLayout>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_marginRight="@dimen/margin_12"
+            android:orientation="horizontal"
+            android:layout_gravity="center_vertical"
+            android:layout_height="60dp">
+            <TextView
+                android:id="@+id/txt_price"
+                android:layout_width="wrap_content"
+                android:text="..."
+                android:textSize="@dimen/text_size_14"
+                android:textColor="@color/c_txt_68"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_toRightOf="@+id/txt_price"
+                android:layout_width="wrap_content"
+                android:text=""
+                android:textSize="@dimen/text_size_12"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/txt"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="14dp"
+                android:text="数量："
+                android:textSize="@dimen/text_size_12"
+                android:textColor="@color/c_txt_68"
+                android:layout_below="@+id/txt_price"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:id="@+id/txt_unm"
+                android:layout_width="wrap_content"
+                android:layout_below="@id/txt_price"
+                android:layout_marginTop="14dp"
+                android:text="..."
+                android:textSize="@dimen/text_size_12"
+                android:textColor="@color/c_txt_68"
+                android:layout_toRightOf="@+id/txt"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+    </LinearLayout>
+    <View style="@style/divider_normal" />
+</LinearLayout>

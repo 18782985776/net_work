@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@color/bg_color"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/layout_title_bar"/>
+    <RelativeLayout
+        android:id="@+id/rl_ali"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/bg_select"
+        android:gravity="center_vertical"
+        android:paddingLeft="11dp"
+        android:paddingRight="25dp">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="16dp"
+                android:layout_height="17dp"
+                android:src="@mipmap/farm_icon_zhifubao" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:layout_marginLeft="11dp"
+                android:text="支付宝提现"
+                android:textColor="@color/c_txt_25"
+                android:textSize="@dimen/text_size_14" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_weixin"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="@dimen/margin_10"
+        android:background="@drawable/bg_select"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:paddingLeft="11dp"
+        android:paddingRight="25dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="16dp"
+                android:layout_height="17dp"
+                android:src="@mipmap/farm_icon_weixin" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="11dp"
+                android:gravity="center"
+                android:text="微信提现"
+                android:textColor="@color/c_txt_25"
+                android:textSize="@dimen/text_size_14" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="提示：提现后将在24小时内到账"
+        android:layout_marginLeft="@dimen/margin_10"
+        android:textSize="@dimen/text_size_12"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/c_txt_88"
+        android:layout_height="wrap_content" />
+</LinearLayout>

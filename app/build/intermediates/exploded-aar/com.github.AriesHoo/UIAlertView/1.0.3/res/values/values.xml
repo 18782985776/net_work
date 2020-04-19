@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAlertBg">#EEEAE9</color>
+    <color name="colorAlertBgPressed">#D6D3D6</color>
+    <color name="colorAlertButton">#1382FF</color>
+    <color name="colorLineGray">#DCDCDC</color>
+    <dimen name="alert_dp_padding">12dp</dimen>
+    <dimen name="alert_max_width">340dp</dimen>
+    <dimen name="alert_max_width_">300dp</dimen>
+    <dimen name="alert_min_height">80dp</dimen>
+    <dimen name="alert_min_width">260dp</dimen>
+    <dimen name="alert_radius">12dp</dimen>
+    <dimen name="dp_line_size">0.5dp</dimen>
+    <dimen name="sp_alert_message_size">16sp</dimen>
+    <dimen name="sp_alert_title_size">16sp</dimen>
+    <string name="app_name">UIAlertView</string>
+    <string name="cancel">取消</string>
+    <string name="ensure">确定</string>
+    <style name="AlertViewButtonStyle">
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:minHeight">45dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">@color/colorAlertButton</item>
+        <item name="android:textSize">@dimen/sp_alert_message_size</item>
+    </style>
+    <style name="AlertViewDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="LineGray">
+        <item name="android:background">@color/colorLineGray</item>
+    </style>
+    <style name="LineGray.Horizontal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dp_line_size</item>
+    </style>
+    <style name="LineGray.Horizontal.BreakAll">
+        <item name="android:layout_marginLeft">@dimen/dp_line_size</item>
+        <item name="android:layout_marginRight">@dimen/dp_line_size</item>
+    </style>
+    <style name="LineGray.Horizontal.BreakLeft">
+        <item name="android:layout_marginLeft">@dimen/dp_line_size</item>
+    </style>
+    <style name="LineGray.Vertical">
+        <item name="android:layout_width">@dimen/dp_line_size</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+</resources>

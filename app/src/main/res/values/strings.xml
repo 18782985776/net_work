@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">网农公社</string>
+    <string name="ranking">综合排序</string>
+    <string name="popularity_moods">人气</string>
+    <string name="distance">距离</string>
+    <string name="advanced_filter">高级筛选</string>
+    <string name="user_agreement"> \t\t本协议为您与本APP管理者之间所订立的契约，具有合同 的法律效力，请您仔细阅读。</string>
+    <string name="user_agreement_detail">
+        一、 本协议内容、生效、变更 \n
+        \t\t本协议内容包括协议正文及所有本APP已经发布的或将来可能 发布的各类规则。
+        所有规则为本协议不可分割的组成部分，与 协议正文具有同等法律效力。如您对协议有任何疑问，应向本 APP咨询。
+        您在同意所有协议条款并完成注册程序，才能成为 本站的正式用户，
+        您点击“我以阅读并同意本APP用户协议和 法律协议”按钮后，本协议即生效，对双方产生约束力。\n\n
+        \t\t只要您使用本APP平台服务，则本协议即对您产生约束， 届时您不应以未阅读本协议的内容或者未获得本APP对您问询 的解答等理由，
+        主张本协议无效，或要求撤销本协议。您确认 ：本协议条款是处理双方权利义务的契约，始终有效，法律另 有强制性规定或双方另有特别约定的，
+        依其规定。 您承诺接受 并遵守本协议的约定。如果您不同意本协议的约定，您应立即 停止注册程序或停止使用本APP平台服务。本APP有权根据需
+        要不定期地制订、修改本协议及/或各类规则，并在本APP平台 公示，不再另行单独通知用户。变更后的协议和规则一经在网 站公布，
+        立即生效。如您不同意相关变更，应当立即停止使用 本APP平台服务。您继续使用本APP平台服务的，即表明您接 受修订后的协议和规则。
+    </string>
+    <string name="planting_scheme_hint">
+        提示：您选择了施肥，浇水次数后，农场会根据种植经验和作物实 况进行合理分配施肥，浇水时间，如果您想自己制定，可点击自定 义方案进行制定。
+    </string>
+    <string name="dialog_plat_form_in">
+申请平台客服介入后，工作人员将会通过电话与您取得联系请确保您的电话号码正确无误，并保持畅通。
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bind_phone_ti">
+        收到验证码后，请在15分钟内在下方输入您收到的验证码，如果未收到消息，请重新点击获取验证码.
+    </string>
+    <string name="outapp">再按一次退出程序</string>
+    <string name="land_away">提示：土地赠送给他人后，对方将获得该土地的对应权限，同事该 土地将会从您的土地列表中消失</string>
+</resources>

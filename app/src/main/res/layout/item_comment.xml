@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="46dp"
+        android:gravity="center_vertical">
+        <ImageView
+            android:id="@+id/tv_photo"
+            android:layout_width="51dp"
+            android:layout_height="41dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:paddingRight="10dp"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/ic_launcher"
+            />
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_photo"
+            android:layout_centerVertical="true"
+            style="@style/style_tv_38"
+            android:textSize="14sp"
+            android:text="姓名"/>
+        <TextView
+            android:id="@+id/tv_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/right_margin"
+            android:layout_centerVertical="true"
+            android:text="2017-4-19"/>
+
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/tv_comment_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="@dimen/right_margin"
+        android:text="智慧农场真的是不错啊，自己种植的蔬菜，吃起来味道 都不一样，完全无添加"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/ic_launcher"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        style="@style/split_line_style"/>
+</LinearLayout>

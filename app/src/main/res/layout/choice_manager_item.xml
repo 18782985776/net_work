@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#e3e3e3"
+    android:layout_height="102dp">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="91dp"
+    android:padding="10dp"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    >
+    <ImageView
+        android:layout_width="17dp"
+        android:id="@+id/img_choice_manager_item"
+        android:src="@mipmap/farm_icon_selected"
+        android:layout_height="17dp" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:layout_weight="1">
+            <TextView
+                android:layout_width="wrap_content"
+                android:textColor="#252827"
+                android:text="张三"
+                android:id="@+id/tv_choice_manager_name"
+                android:textSize="@dimen/text_size_12"
+                android:layout_height="match_parent" />
+            <TextView
+                android:layout_width="36dp"
+                android:textSize="@dimen/text_size_10"
+                android:text="26岁"
+                android:layout_marginLeft="12dp"
+                android:id="@+id/tv_manager_sex"
+                android:layout_height="14dp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_manager_introduce"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textSize="@dimen/text_size_12"
+            android:textColor="#686868"
+            android:layout_weight="2"
+            android:text="张三对种植花草和管理特别在行，工作负责，种植花草 的话可以找他哦" />
+    </LinearLayout>
+</LinearLayout>
+</LinearLayout>

@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_selector_text_farm.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\color\\tab_selector_text_farm.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_selector_text.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\color\\tab_selector_text.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\selector_tab_text_color.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\color\\selector_tab_text_color.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\caafcd6fbd3a38f87fbc72735583e2960a82ed39\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\selector_tab_text_color.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\color\\selector_tab_text_color.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_selector_text_farm_details.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\color\\tab_selector_text_farm_details.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_selector_text_farm.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\color\\tab_selector_text_farm.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\selector_text2.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\color\\selector_text2.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\selector_text2.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\color\\selector_text2.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_selector_text_farm_details.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\color\\tab_selector_text_farm_details.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\tab_selector_text.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\color\\tab_selector_text.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\0b4e3ae70bda77b1d2e80319bdf74d9ad4787089\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    }
+]

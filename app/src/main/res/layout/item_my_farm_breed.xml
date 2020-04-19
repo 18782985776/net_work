@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="41dp">
+
+        <TextView
+            android:id="@+id/tv_status"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/left_margin"
+            android:gravity="center_vertical"
+            android:text="养殖中"
+            android:textColor="#9ECC5B"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/tv_contact"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:text="联系管家"
+            android:textColor="#9ECC5B"
+            android:textSize="13sp" />
+    </RelativeLayout>
+
+    <View style="@style/split_line_style" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_farm"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_marginLeft="@dimen/left_margin"
+            android:src="@mipmap/ic_default" />
+
+        <TextView
+            android:id="@+id/tv_farm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="花果山农场"
+            android:textColor="@color/c_txt_25"
+            android:textSize="14sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text=">"
+            android:textColor="@color/c_txt_25"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/tv_major"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="农家乌骨鸡"
+            android:textColor="@color/c_txt_25"
+            android:textSize="14sp" />
+        <TextView
+            android:id="@+id/tv_minor_split"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:visibility="gone"
+            android:text=">"
+            android:textColor="@color/c_txt_25"
+            android:textSize="13sp" />
+        <TextView
+            android:id="@+id/tv_minor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:text=""
+            android:textColor="@color/c_txt_25"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View style="@style/split_line_style" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="91dp">
+
+        <ImageView
+            android:id="@+id/iv_land"
+            android:layout_width="76dp"
+            android:layout_height="76dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/left_margin"
+            android:src="@mipmap/default_image" />
+
+        <!--中间-->
+
+        <TextView
+            android:id="@+id/tv_land_area_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="20dp"
+            android:layout_toRightOf="@id/iv_land"
+            android:text="动物数量"
+            android:textColor="@color/c_txt_68"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/tv_land_area"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_land_area_name"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_land_area_name"
+            android:text="5只"
+            android:textColor="@color/c_txt_68"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/tv_land_unit_price_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/tv_land_area_name"
+            android:layout_below="@id/tv_land_area_name"
+            android:layout_marginTop="18dp"
+            android:text="交易价格"
+            android:textColor="@color/c_txt_68"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/tv_land_unit_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/tv_land_unit_price_name"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/tv_land_unit_price_name"
+            android:text="¥10/只"
+            android:textColor="@color/c_txt_68"
+            android:textSize="13sp" />
+
+        <!--右边-->
+        <TextView
+            android:id="@+id/tv_progress"
+            android:layout_width="66dp"
+            android:layout_height="23dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/right_margin"
+            android:layout_marginTop="18dp"
+            android:background="@drawable/bg_select_yes2"
+            android:gravity="center"
+            android:text="查看进度"
+            android:textColor="@color/white"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tv_plant_plan"
+            android:layout_width="66dp"
+            android:layout_height="23dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="12dp"
+            android:layout_marginRight="@dimen/right_margin"
+            android:background="@drawable/bg_select_no2"
+            android:gravity="center"
+            android:text="养殖计划"
+            android:textColor="@color/btn_bg_color"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+    <View style="@style/split_line_style" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/left_margin"
+            android:text="有效日期："
+            android:textColor="@color/c_txt_88"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/tv_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="@color/c_txt_88"
+            android:textSize="12dp" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/tv_delete"
+            android:layout_width="66dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/right_margin"
+            android:gravity="center"
+            android:text="删除"
+            android:textColor="#9ECC5B"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</LinearLayout>

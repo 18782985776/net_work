@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "E:\\work\\newP\\NetFarm\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "E:\\work\\newP\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b659916a49aacb340f1d56de3a51de6969f76499\\output\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\res\\merged\\debug\\xml\\provider_paths.xml",
+        "source": "G:\\workU\\nongyinong\\NetFarm\\app\\build\\intermediates\\exploded-aar\\com.lzy.widget\\imagepicker\\0.5.5\\res\\xml\\provider_paths.xml"
+    }
+]

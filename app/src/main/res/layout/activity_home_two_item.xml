@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:paddingTop="10dp"
+    android:layout_height="wrap_content">
+    <com.jobnew.farm.widget.CircleImageView
+        android:layout_width="22dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="5dp"
+        android:src="@mipmap/mine_icon_headportrait"
+        android:layout_height="22dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="城安安"
+        android:gravity="center_vertical"
+        android:textColor="@color/main_color"
+        android:textSize="@dimen/text_size_14"
+        android:layout_height="22dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="：确实长的不错啊~"
+        android:textSize="@dimen/text_size_13"
+        android:textColor="@color/c_txt_38"
+        android:layout_height="wrap_content" />
+</LinearLayout>

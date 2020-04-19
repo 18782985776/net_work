@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:layout_height="40dp">
+        <ImageView
+            android:id="@+id/img_check"
+            android:src="@mipmap/ic_cb_nocheck"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_marginRight="20dp"
+            android:layout_width="13dp"
+            android:layout_height="13dp" />
+        <TextView
+            android:layout_toRightOf="@+id/img_check"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:text="程*金"
+            android:textColor="@color/c_txt_68"
+            android:textSize="@dimen/text_size_13"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:text="159****0125"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/margin_20"
+            android:textColor="@color/c_txt_68"
+            android:textSize="@dimen/text_size_13"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <View style="@style/divider_normal"/>
+</LinearLayout>

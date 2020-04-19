@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="67dp">
+        <com.jobnew.farm.widget.CircleImageView
+            android:id="@+id/img_user"
+            android:layout_width="37dp"
+            android:src="@mipmap/demo"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_height="37dp" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="15dp"
+            android:src="@mipmap/mine_icon_delete2"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="关键词"
+            android:layout_toRightOf="@+id/img_user"
+            android:layout_marginLeft="10dp"
+            android:layout_alignTop="@+id/img_user"
+            android:textColor="@color/c_txt_38"
+            android:textSize="@dimen/text_size_16"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="04-30 17:06"
+            android:layout_toRightOf="@+id/img_user"
+            android:layout_marginLeft="10dp"
+            android:layout_alignBottom="@+id/img_user"
+            android:textColor="@color/c_txt_88"
+            android:textSize="@dimen/text_size_13"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:paddingLeft="10dp"
+        android:paddingRight="@dimen/margin_10"
+        android:lineSpacingExtra="3dp"
+        android:textSize="@dimen/text_size_15"
+        android:textColor="@color/c_txt_38"
+        android:ellipsize="end"
+        android:text="12点农场真的是不错啊，自己种植的蔬菜，吃起来味 道都不一样，完全无添加"
+        android:layout_height="wrap_content" />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:paddingRight="10dp"
+        android:layout_height="wrap_content"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp">
+        <TextView
+            android:id="@+id/txt_comment"
+            android:layout_width="wrap_content"
+            android:text="23"
+            android:textSize="@dimen/text_size_10"
+            android:textColor="@color/c_txt_68"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/img_comment"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/txt_comment"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/mine_icon_comment"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/txt_up"
+            android:layout_width="wrap_content"
+            android:text="23"
+            android:textSize="@dimen/text_size_10"
+            android:textColor="@color/c_txt_68"
+            android:layout_marginLeft="3dp"
+            android:layout_toLeftOf="@id/img_comment"
+            android:layout_marginRight="25dp"
+            android:layout_centerVertical="true"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/img_up"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/txt_up"
+            android:layout_width="wrap_content"
+            android:src="@mipmap/mine_icon_fabulous"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <View style="@style/divider_normal"/>
+    <TextView
+        android:id="@+id/txt_up_list"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:paddingTop="10dp"
+        android:layout_marginRight="10dp"
+        android:lineSpacingExtra="3dp"
+        android:textColor="@color/main_color"
+        android:textSize="@dimen/text_size_14"
+        android:text=" 小爱词、可惜没如果、小猫猫可惜没如果、小猫猫可 猫、可惜没如果、小猫猫可惜没如果、小猫猫"
+        android:layout_height="wrap_content" />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="评论"
+        android:layout_margin="10dp"
+        android:textColor="@color/c_txt_68"
+        android:textSize="@dimen/text_size_12"
+        android:background="@drawable/bg_color_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+    <View style="@style/divider_normal"
+        android:layout_height="10dp"/>
+</LinearLayout>

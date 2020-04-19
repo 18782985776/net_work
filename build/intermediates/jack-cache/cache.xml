@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.2.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="c62423966e97071131e9c16d89ffaa003fe6a5d1">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a2386a3634e0c80527089feef674d836d7e2d91f.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.github.AriesHoo\UIProgressView\1.0.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="fab94190d0b8756d2d4e0a12966abae6c36027dd">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-3e311121e0518b52c15aa7ffd44df237d8dd9fdd.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.contrarywind\Android-PickerView\3.2.5\jars\classes.jar"
+        revision="25.0.3"
+        sha1="c1def4f6e8a41985b7b7af4d3b5b5d94f61d01b0">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-609c49908fc8223702f37b31dc6c0f223df4f613.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\umeng_social_api.jar"
+        revision="25.0.3"
+        sha1="90929d469d67e9394dcd35e1aabc981df95f27f4">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng_social_api-2a3c1b47d898a2e5baba5aab3926aa1fca257499.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.github.AriesHoo\UIActionSheetView\1.0.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="f4aa7886a1dba614a72a937b2d81a55940695e43">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c559d86f3745bfa7c4869f7dc733854da821d31c.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\SocialSDK_QQ_Full.jar"
+        revision="25.0.3"
+        sha1="2b4867fcc75ff37a80b92bacd35c1790bb250a10">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\SocialSDK_QQ_Full-2a5375ced125253d255964d0eab4d8595c733188.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.missmess.coverflowview\coverflowview\1.0.9\jars\classes.jar"
+        revision="25.0.3"
+        sha1="0a59bc32d8ca37f79ba5cd3f61c3e68cfd42b933">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f6e9402ede0032b5f8a7d9d51db84ce597369534.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-962d7adf9e8c0e1bb430b893de72ac75ba07e7a7.jar" />
+    </item>
+    <item
+        jar="F:\works\studio\sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-3a594854fe1bfb3c987b7f26dbd49a2a4a9700df.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\AMap2DMap_5.2.0_AMapSearch_5.2.1_AMapLocation_3.5.0_20170731.jar"
+        revision="25.0.3"
+        sha1="324891674b2117f40f9a3c12e9dfa5280f541036">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\AMap2DMap_5.2.0_AMapSearch_5.2.1_AMapLocation_3.5.0_20170731-3eb326f585e3b99b8179fd7cb1b0c114bbfe3c67.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        revision="25.0.3"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\converter-gson-2.2.0-04baf9506aff2da76f835c7bcd98adc79126927e.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\cn.bingoogolapple\bga-zxing\1.1.7\jars\classes.jar"
+        revision="25.0.3"
+        sha1="5079e5fd491e9cda6597074c383db035e25e4696">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ce04dcf8d0d55086c21885249a466e6b4c7a4b80.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.zhy\flowlayout-lib\1.0.3\jars\classes.jar"
+        revision="25.0.3"
+        sha1="fdaede6c3d2da36ba042f9db05a60d303e04045f">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5fd0a08b35c39e24088ec7980be960a0919b5d78.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\alipaySdk-20170623-proguard.jar"
+        revision="25.0.3"
+        sha1="49576e0e4609d28dfa843baaad0fa89e433a6a9d">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\alipaySdk-20170623-proguard-9b320f26531decc51acc690bdddfee2a3968a6c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        revision="25.0.3"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\retrofit-2.2.0-5127af66b76a6a65810e00277050022b19264d6f.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.github.AriesHoo\UIAlertView\1.0.3\jars\classes.jar"
+        revision="25.0.3"
+        sha1="99e61e55cbf3629141442f600fa66ad6a502169f">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ace7ea8ece745694cfc8dba973252a079ad2e15c.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4336ccb982969b35d50456aa7e0d4a46e86ae492.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\mta-sdk-1.6.2.jar"
+        revision="25.0.3"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\mta-sdk-1.6.2-40bc2ad884016686907ec0f30654f4487819f92c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\reactive-streams-1.0.0-5ea215fafe26757b3eaa9e791da078c680959e41.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava2\2.2.0\3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c\adapter-rxjava2-2.2.0.jar"
+        revision="25.0.3"
+        sha1="3ee0e527143abbe130ddba4c1fa6c4be5d66ed5c">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\adapter-rxjava2-2.2.0-2302a05dd45b458e6e1d85b57d5e146184c5d490.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d4017e9f05a6f24c6f1fd31e824d007248fedb5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        revision="25.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\core-3.2.1-3f96f72d8bc40481fc852122e0314b3485c288eb.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.github.lygttpod\SuperTextView\1.1.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="bd3979a6bfd5fd8b051fa25d8b6d75a520ecdf28">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-409aca6233c6d4d7228da40b3a303b9e01e516cd.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-27f27e04a4410a414506e794fed77767282cbbdb.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\weiboSDKCore_3.1.4.jar"
+        revision="25.0.3"
+        sha1="f3617ce51258bf3ec0fe2503e3c0a920040b1b53">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\weiboSDKCore_3.1.4-7ec427fd4e2095d03130813b72c3b53c9dd51a1f.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\SocialSDK_Sina_Full.jar"
+        revision="25.0.3"
+        sha1="c0bd09a1276fa52e8999e698bd4ca1cbf1ef2ed4">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\SocialSDK_Sina_Full-5b6218dc60be1285add34f38d40ac4bd0beca6a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.0\2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1\rxjava-2.1.0.jar"
+        revision="25.0.3"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\rxjava-2.1.0-6662d15a2ade7355873c17339e55903d5dffa00e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.6.0\48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8\butterknife-annotations-8.6.0.jar"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\butterknife-annotations-8.6.0-1e9486226db940d9ca5d43c77ccdeae15ca35a19.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a15e4c89993350202b151aa99aff66c9b5557faf.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.bigkoo\convenientbanner\2.0.5\jars\classes.jar"
+        revision="25.0.3"
+        sha1="b99798f653c15a17af6779bb9f01a66f2ee6e6ef">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b51ab60d60faf322542a659f95df0d3082a8024d.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-9fb3e63041696190887bc4826a7c9c2d4e47555a.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-efe6f4f0b4ce6df928d8521cdca95ffbb047b628.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\SocialSDK_WeiXin_Full.jar"
+        revision="25.0.3"
+        sha1="5a2bdd68e2c9a45b1d5b0fa6b90a1e8869ad1e9d">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\SocialSDK_WeiXin_Full-3c2c204b73ce02fcd5e926c0ad2de55e89155e06.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\cn.bingoogolapple\bga-qrcodecore\1.1.7\jars\classes.jar"
+        revision="25.0.3"
+        sha1="f577701fa1e05f14bde07bfbd522ced08fe1f7a0">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2fbc75aa43a580cded97fc7a9596c49398636652.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0ed91f4a200ecb9aca7734ea3dc4821d1941fdb1.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.6.0\jars\classes.jar"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e77c5f62a5627c1527eb22ac8a50c39afa0af408.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.lzy.widget\imagepicker\0.5.5\jars\classes.jar"
+        revision="25.0.3"
+        sha1="d10cc8121b252a09da8ee537ed5386b7ca476923">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e4c1411f616b812017a1da3ecff691ad805347b3.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\libammsdk.jar"
+        revision="25.0.3"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\libammsdk-96b211b729b1a651f2356cdd44c854bf4c2b9165.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-920961d004eff3ed7cac4cfb2dd1c2164ad746c5.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.github.MarnonDev\EasyStatusView\v1.0.3\jars\classes.jar"
+        revision="25.0.3"
+        sha1="fbeb7c3e5e227c72981bb5e80edc140d96b54d04">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e9e746b3160bc56c1b2d43853eeed2e8489f5147.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-046698e00435a4a23a5663b77fdb6aec647015c4.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\umeng_social_shareview.jar"
+        revision="25.0.3"
+        sha1="33e345571d0b93912bc6e2d7fe35d8ac066d4dd9">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng_social_shareview-59f66519fa58d11394a3e0dcab656ef008bf36b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        revision="25.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okio-1.11.0-893d7cba6fd833c845f42c6194f7ff7a73716aa7.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5a16e52fd3c1d66ecacae3f14eacfacdb2192990.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\umeng_social_shareboard.jar"
+        revision="25.0.3"
+        sha1="0262aa3e406c32cdab928b23b4c4ff6bbc1c8307">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng_social_shareboard-60bebee7cfb32b32bb07a4cfcfa437486dd61eca.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        revision="25.0.3"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a43bc1133b5d9f233f5c0aa20b1321bc46a8bc28.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-13fba87a01ffab7b257ed4dd8392aef31509986f.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\umeng_social_net.jar"
+        revision="25.0.3"
+        sha1="7b5363c8fe2c50d1392a15281ed12ca3e4b4c223">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng_social_net-9e892dda0c428fc961e1b5e26b6a71ac52140393.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.github.CymChad\BaseRecyclerViewAdapterHelper\2.9.12\jars\classes.jar"
+        revision="25.0.3"
+        sha1="b5635fcc2e7b4abde0c5f8880f36058b17d7727e">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-808bad753f8bbd506b4f00b969dbc213fc1ef6d9.jar" />
+    </item>
+    <item
+        jar="F:\works\studio\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-fce23540208fb07e628c824bc62455765bb485a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\glide-3.7.0-1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-42e4020e47ad7673bcb2ebe32ce7f690555eb3a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gson-2.7-2e85dbf641c4a16c73925139bd4ff50ebb0450dd.jar" />
+    </item>
+    <item
+        jar="F:\works\studio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-ad0c8e11b1f43e3bf47d56c3b9e2cc2bff41767b.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\umeng_shareboard_widget.jar"
+        revision="25.0.3"
+        sha1="69115f78ff9715d8802f8672497a5e77ca94587d">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\umeng_shareboard_widget-43890d4074076bf4cc1e1dbc95ff148679cb5425.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\libs\open_sdk_r5756_lite.jar"
+        revision="25.0.3"
+        sha1="06379788d59fda28f99848b542d55c94f48322a9">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\open_sdk_r5756_lite-d76a4931e33c5c438fdb1cd251fb72c87a84843b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\library-2.4.0-dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8ff6336e12f26c722140373a8af79b38a3b976bb.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.15\jars\classes.jar"
+        revision="25.0.3"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2fb3b27315383223702b33d70d5fa74505a38a8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        revision="25.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-3.6.0-1efc6a5eb9346389ba0de2f5ee10a5fa311da347.jar" />
+    </item>
+    <item
+        jar="F:\works\studio\sdk\platforms\android-25\android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-ebd17b0a99511b68e32890fa2a0b56e92d239c52.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        revision="25.0.3"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5ad52e2a2ae5f0426830906ab1503e1f6c1c33a7.jar" />
+    </item>
+    <item
+        jar="G:\workU\nongyinong\NetFarm\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="G:\workU\nongyinong\NetFarm\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-36e6734f76a8b029412b819f3f3e76fe070a421d.jar" />
+    </item>
+
+</items>

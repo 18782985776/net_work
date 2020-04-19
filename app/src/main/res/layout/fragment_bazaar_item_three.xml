@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="102dp">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="101dp">
+        <RelativeLayout
+            android:layout_width="81dp"
+            android:layout_height="81dp">
+            <ImageView
+                android:id="@+id/img_title"
+                android:layout_width="81dp"
+                android:layout_height="81dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/default_image" />
+            <ImageView
+                android:id="@+id/img_isbook"
+                android:layout_width="21dp"
+                android:src="@mipmap/market_yushou"
+                android:layout_height="15dp" />
+        </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:paddingRight="5dp"
+            android:paddingLeft="10dp"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="..."
+                    android:textColor="@color/c_txt_25"
+                    android:id="@+id/txt_title"
+                    android:textSize="@dimen/text_size_15"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:orientation="horizontal"
+                    android:layout_height="match_parent">
+                    <TextView
+                        android:id="@+id/txt_price"
+                        android:gravity="center"
+                        android:layout_width="wrap_content"
+                        android:text="¥.."
+                        android:layout_gravity="center_vertical"
+                        android:textColor="@color/other_red"
+                        android:textSize="@dimen/text_size_14"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:id="@+id/txt_unitName"
+                        android:gravity="center"
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="wrap_content"
+                        android:text="/.."
+                        android:textColor="@color/c_txt_68"
+                        android:textSize="@dimen/text_size_12"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </RelativeLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:gravity="center_vertical"
+                android:layout_weight="2"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/txt_intro"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/c_txt_68"
+                    android:maxLines="2"
+                    android:ellipsize="end"
+                    android:layout_marginLeft="3dp"
+                    android:text="肥沃的土地，适合各种玉米，花生，青菜，西红柿等。"
+                    android:textSize="@dimen/text_size_12" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+                <TextView
+                    android:gravity="bottom"
+                    android:layout_width="0dp"
+                    android:id="@+id/txt_stock"
+                    android:textColor="@color/c_txt_88"
+                    android:layout_height="match_parent"
+                    android:text="商品库存 132"
+                    android:textSize="@dimen/text_size_11"
+                    android:layout_weight="1"/>
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="11dp"
+                    android:layout_gravity="center"
+                    android:background="#e3e3e3"/>
+                <TextView
+                    android:gravity="bottom|center_horizontal"
+                    android:textSize="@dimen/text_size_11"
+                    android:layout_width="0dp"
+                    android:id="@+id/txt_store"
+                    android:textColor="@color/c_txt_88"
+                    android:layout_height="match_parent"
+                    android:text="月售 22"
+                    android:layout_weight="1"/>
+                <View
+                    android:layout_width="1dp"
+                    android:layout_height="11dp"
+                    android:layout_gravity="center"
+                    android:background="#e3e3e3"/>
+
+                <TextView
+                    android:id="@+id/txt_discuss"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="bottom|center_horizontal"
+                    android:text="距离 12KM"
+                    android:textColor="@color/c_txt_88"
+                    android:textSize="@dimen/text_size_11" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <View style="@style/divider_normal"/>
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/layout_title_bar"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_height="45dp">
+        <TextView
+            android:layout_width="74dp"
+            android:text="支付宝账户"
+            android:layout_marginLeft="18dp"
+            android:layout_marginRight="@dimen/margin_10"
+            android:textColor="@color/c_txt_25"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content" />
+        <com.jobnew.farm.widget.ClearEditText
+            android:id="@+id/edit_ali_account"
+            android:inputType="numberDecimal"
+            android:layout_width="match_parent"
+            android:hint="请输入支付宝账号"
+            android:maxLines="1"
+            android:textSize="@dimen/text_size_13"
+            android:layout_marginRight="@dimen/margin_12"
+            android:background="@null"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <View style="@style/divider_normal"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_height="45dp">
+        <TextView
+            android:layout_width="74dp"
+            android:text="支付宝名称"
+            android:layout_marginRight="@dimen/margin_10"
+            android:layout_marginLeft="18dp"
+            android:textColor="@color/c_txt_25"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content" />
+        <com.jobnew.farm.widget.ClearEditText
+            android:id="@+id/edit_ali_name"
+            android:inputType="numberDecimal"
+            android:layout_width="match_parent"
+            android:hint="请输入支付宝名称"
+            android:maxLines="1"
+            android:textSize="@dimen/text_size_13"
+            android:layout_marginRight="@dimen/margin_12"
+            android:background="@null"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+    <View style="@style/divider_normal" android:layout_height="0dp"
+        android:layout_weight="1"/>
+    <TextView
+        android:id="@+id/submit_withdraw"
+        android:gravity="center"
+        android:clickable="true"
+        android:layout_width="match_parent"
+        android:background="@drawable/bg_btn_select"
+        android:text="提交"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_16"
+        android:layout_height="45dp" />
+</LinearLayout>

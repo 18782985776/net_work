@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="160dp">
+    <LinearLayout
+        android:background="@drawable/love_donation_background"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/item_love"
+        android:layout_height="147dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:padding="10dp"
+        android:orientation="horizontal"
+        android:layout_height="88dp">
+        <ImageView
+            android:layout_width="17dp"
+            android:layout_height="17dp"
+            android:id="@+id/img_selection"
+            android:clickable="true"
+            android:visibility="gone"
+            android:src="@mipmap/farm_icon_selected"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:layout_weight="1"
+                >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:maxLength="8"
+                    android:ellipsize="end"
+                    android:id="@+id/tv_recipients"
+                    android:gravity="center_vertical"
+                    android:text="收件人：张德芳"
+                    android:textColor="#252827"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:id="@+id/tv_tel"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:maxLines="1"
+                    android:gravity="center_vertical|right"
+                    android:text="联系电话：15896248964"
+                    android:textColor="#252827"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:visibility="gone"
+                android:id="@+id/tv_postcode"
+                android:text="邮编：610000"
+                android:layout_height="0dp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_vertical|left"
+                android:textSize="@dimen/text_size_13"
+                android:id="@+id/tv_address"
+                android:layout_marginRight="18dp"
+                android:text="地址：成都市吉瑞三路99号环球时代中心1-4"
+                android:layout_height="0dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <View style="@style/divider_normal"/>
+<TextView
+    android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:paddingLeft="20dp"
+    android:layout_marginRight="1dp"
+    android:id="@+id/love_donation_describe_tv"
+    android:textSize="@dimen/text_size_12"
+    android:text="张德芳，现年86，无儿无女，独自一人生活，靠一亩地生活， 现年老体衰，物理耕作，希望爱心人士给予帮助。"
+    android:layout_height="match_parent" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:background="#ededed"
+        android:layout_height="13dp"/>
+</LinearLayout>

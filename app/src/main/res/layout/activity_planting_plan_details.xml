@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_title_bar" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/bg_color">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/tv_major_name"
+                        style="@style/style_tv_25"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp"
+                        android:text="租赁土地" />
+
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="1dp"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:id="@+id/tv_breed_num"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:text=""
+                        android:textColor="@color/c_txt_68"
+                        android:textSize="14sp"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/tv_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="¥0.00"
+                        android:textColor="@color/c_txt_F8"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/tv_unit_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="@dimen/right_margin"
+                        android:text="(¥0.01/㎡)"
+                        android:textColor="@color/c_txt_88"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/ll_plant_info"
+                    android:layout_width="match_parent"
+                    android:layout_height="51dp"
+                    android:background="@color/white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/left_margin"
+                        android:text="面积："
+                        android:textColor="@color/c_txt_68"
+                        android:textSize="12sp" />
+
+
+                    <TextView
+                        android:id="@+id/tv_area"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0㎡"
+                        android:textColor="@color/c_txt_68"
+                        android:textSize="12sp" />
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/left_margin"
+                        android:text="时长："
+                        android:textColor="@color/c_txt_68"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/tv_crop_cycle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="@dimen/right_margin"
+                        android:text="0天"
+                        android:textColor="@color/c_txt_68"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <View style="@style/split_line_style" />
+
+                <com.allen.library.SuperTextView
+                    android:id="@+id/stv_land_name_card"
+                    style="@style/price_item_style"
+                    android:layout_width="match_parent"
+                    app:sLeftTextString="土地名片"
+                    app:sRightTextColor="@color/c_txt_88"
+                    app:sRightTextMarginRight="@dimen/right_margin"
+                    app:sRightTextString=""
+                    app:sRightTextStringRightIconResPadding="4dp" />
+
+                <com.allen.library.SuperTextView
+                    android:id="@+id/stv_select_seed"
+                    style="@style/price_item_style"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="5dp"
+                    app:sLeftTextString="选择种子"
+                    app:sRightTextString="¥0.00"
+                    app:sRightTextStringRightIconResPadding="4dp">
+
+                    <TextView
+                        android:id="@+id/tv_select_seed"
+                        style="@style/plan_stv_88"
+                        android:text="" />
+
+                </com.allen.library.SuperTextView>
+
+                <com.allen.library.SuperTextView
+                    android:id="@+id/stv_planting_scheme"
+                    style="@style/price_item_style"
+                    app:sLeftTextString="种植方案"
+                    app:sRightTextString="¥0.00">
+
+                    <TextView
+                        android:id="@+id/tv_planting_scheme"
+                        style="@style/plan_stv_88"
+                        android:text="省心方案" />
+                </com.allen.library.SuperTextView>
+
+                <com.allen.library.SuperTextView
+                    android:id="@+id/stv_execution_steward"
+                    style="@style/price_item_style"
+                    android:layout_marginTop="5dp"
+                    app:sLeftTextColor="@color/c_txt_38"
+                    app:sLeftTextString="执行管家"
+                    app:sRightTextString="系统自动分配" />
+
+                <com.allen.library.SuperTextView
+                    android:id="@+id/stv_monitor"
+                    style="@style/price_item_style"
+                    app:sLeftTextString="监控摄像"
+                    app:sRightTextString="¥0.00" />
+
+                <com.allen.library.SuperTextView
+                    android:id="@+id/stv_signboard"
+                    style="@style/price_item_style"
+                    app:sLeftTextString="标志标识"
+                    app:sRightTextString="¥0.00">
+
+                    <TextView
+                        android:id="@+id/tv_signboard"
+                        style="@style/plan_stv_88"
+                        android:text="" />
+                </com.allen.library.SuperTextView>
+
+
+                <com.allen.library.SuperTextView
+                    android:id="@+id/Stv_product_processing"
+                    style="@style/price_item_style"
+                    app:sLeftTextString="产品加工"
+                    app:sRightTextString="¥0.00">
+
+                    <TextView
+                        android:id="@+id/tv_product_processing"
+                        style="@style/plan_stv_88"
+                        android:text="" />
+
+                </com.allen.library.SuperTextView>
+
+                <com.allen.library.SuperTextView
+                    android:id="@+id/stv_insurance"
+                    style="@style/price_item_style"
+                    app:sLeftTextString="作物保险"
+                    app:sRightTextString="¥0.00">
+
+                    <TextView
+                        android:id="@+id/tv_insurance"
+                        style="@style/plan_stv_88"
+                        android:text="" />
+
+                </com.allen.library.SuperTextView>
+
+                <com.allen.library.SuperTextView
+                    android:id="@+id/stv_distribution"
+                    style="@style/price_item_style"
+                    android:layout_marginTop="5dp"
+                    app:sLeftTextString="收获配送"
+                    app:sRightTextColor="@color/c_txt_88"
+                    app:sRightTextString="(¥0.00/㎡)">
+
+                    <TextView
+                        android:id="@+id/tv_distributio_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="100dp"
+                        android:gravity="center_vertical"
+                        android:text="¥0.00"
+                        android:textColor="@color/c_txt_F8"
+                        android:textSize="14sp" />
+                </com.allen.library.SuperTextView>
+
+                <RelativeLayout
+                    android:id="@+id/tl_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@color/white">
+
+                    <TextView
+                        android:id="@+id/name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/left_margin"
+                        android:layout_marginTop="12dp"
+                        android:text="收货人："
+                        android:textColor="@color/c_txt_25"
+                        android:textSize="13sp" />
+
+                    <TextView
+                        android:id="@+id/tv_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:layout_toRightOf="@id/name"
+                        android:text=""
+                        android:textColor="@color/c_txt_25"
+                        android:textSize="13sp" />
+
+                    <TextView
+                        android:id="@+id/tv_phone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="@dimen/right_margin"
+                        android:layout_marginTop="12dp"
+                        android:text="15883811356"
+                        android:textColor="@color/c_txt_25"
+                        android:textSize="13sp" />
+
+                    <TextView
+                        android:id="@+id/tv_address"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginBottom="8dp"
+                        android:layout_marginLeft="@dimen/left_margin"
+                        android:layout_marginRight="@dimen/right_margin"
+                        android:ellipsize="middle"
+                        android:maxLines="1"
+                        android:text=""
+                        android:textColor="@color/c_txt_68"
+                        android:textSize="12sp" />
+                </RelativeLayout>
+
+                <View style="@style/split_line_style" />
+
+                <TextView
+                    android:id="@+id/tv_intro"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/white"
+                    android:paddingBottom="15dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="10dp"
+                    android:text=""
+                    android:textColor="@color/c_txt_68"
+                    android:textSize="12sp" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@color/white"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/style_tv_25"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toLeftOf="@id/tv_total_price"
+                        android:text="合计：" />
+
+                    <TextView
+                        android:id="@+id/tv_total_price"
+                        style="@style/style_tv_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="@dimen/right_margin"
+                        android:text="¥0.00"
+                        android:textSize="15dp" />
+                </RelativeLayout>
+            </LinearLayout>
+        </ScrollView>
+
+        <include layout="@layout/layout_easy_status_view" />
+    </FrameLayout>
+
+</LinearLayout>

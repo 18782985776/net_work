@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/layout_title_bar"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_height="45dp">
+        <TextView
+            android:layout_width="80dp"
+            android:text="原始密码"
+            android:textColor="@color/c_txt_25"
+            android:textSize="@dimen/text_size_14"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_height="wrap_content" />
+        <com.jobnew.farm.widget.ClearEditText
+            android:id="@+id/et_original"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:inputType="textPassword"
+            android:hint="请填写原始密码"
+            android:background="@null"
+            android:maxLength="18"
+            android:textColor="@color/c_txt_68"
+            android:textColorHint="@color/c_txt_88"
+            android:layout_marginRight="15dp"
+            android:singleLine="true"
+            android:textSize="@dimen/text_size_14"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View
+        style="@style/divider_normal"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_height="45dp">
+        <TextView
+            android:layout_width="80dp"
+            android:text="新密码"
+            android:textColor="@color/c_txt_25"
+            android:textSize="@dimen/text_size_14"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_height="wrap_content" />
+        <com.jobnew.farm.widget.ClearEditText
+            android:id="@+id/et_new"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginRight="15dp"
+            android:inputType="textPassword"
+            android:hint="请填写新密码"
+            android:textColor="@color/c_txt_68"
+            android:textColorHint="@color/c_txt_88"
+            android:background="@null"
+            android:singleLine="true"
+            android:maxLength="18"
+            android:textSize="@dimen/text_size_14"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View
+        style="@style/divider_normal"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_height="45dp">
+        <TextView
+            android:layout_width="80dp"
+            android:text="确认密码"
+            android:textColor="@color/c_txt_25"
+            android:textSize="@dimen/text_size_14"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:layout_height="wrap_content" />
+        <com.jobnew.farm.widget.ClearEditText
+            android:id="@+id/et_new_again"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginRight="15dp"
+            android:inputType="textPassword"
+            android:hint="请再次输入密码"
+            android:maxLength="18"
+            android:textColor="@color/c_txt_68"
+            android:textColorHint="@color/c_txt_88"
+            android:background="@null"
+            android:singleLine="true"
+            android:textSize="@dimen/text_size_14"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/bg_color"
+        android:layout_weight="1"></View>
+    <TextView
+        android:id="@+id/txt_change_pwd"
+        android:layout_width="match_parent"
+        android:clickable="true"
+        android:background="@drawable/bg_btn_select"
+        android:text="确认修改"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_14"
+        android:gravity="center"
+        android:layout_height="45dp" />
+</LinearLayout>

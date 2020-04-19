@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/layout_title_bar"/>
+    <RelativeLayout
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="45dp">
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="17dp"
+            android:layout_marginLeft="10dp"
+            android:src="@mipmap/farm_icon_balance"
+            android:layout_centerVertical="true"
+            android:layout_height="17dp"/>
+        <TextView
+            android:id="@+id/txt1"
+            android:layout_width="wrap_content"
+            android:text="我的余额"
+            android:layout_toRightOf="@+id/img"
+            android:textSize="@dimen/text_size_14"
+            android:textColor="@color/c_txt_25"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/text1"
+            android:clickable="true"
+            android:layout_width="45dp"
+            android:text="充值"
+            android:background="@drawable/bg_yellow_wallet"
+            android:textSize="@dimen/text_size_12"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/other_yellow_fa"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_10"
+            android:layout_height="20dp" />
+        <TextView
+            android:id="@+id/text3"
+            android:clickable="true"
+            android:layout_width="45dp"
+            android:text="提现"
+            android:background="@drawable/bg_yellow_wallet"
+            android:textSize="@dimen/text_size_12"
+            android:textColor="@color/other_yellow_fa"
+            android:gravity="center"
+            android:layout_marginRight="13dp"
+            android:layout_height="20dp"
+            android:layout_alignBottom="@+id/text1"
+            android:layout_toLeftOf="@+id/text1"
+            android:layout_toStartOf="@+id/text1"
+            android:layout_marginEnd="13dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_toRightOf="@+id/txt1"
+            android:layout_marginLeft="20dp"
+            android:text="(功能暂未开放)"
+            android:textColor="@color/c_txt_68"
+            android:textSize="@dimen/text_size_12"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <ImageView style="@style/divider_normal"/>
+    <RelativeLayout
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="45dp">
+        <ImageView
+            android:id="@+id/img1"
+            android:layout_width="17dp"
+            android:layout_marginLeft="10dp"
+            android:src="@mipmap/farm_icon_gold"
+            android:layout_centerVertical="true"
+            android:layout_height="17dp" />
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="wrap_content"
+            android:text="我的网农币"
+            android:layout_toRightOf="@+id/img1"
+            android:textSize="@dimen/text_size_14"
+            android:textColor="@color/c_txt_25"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/text2"
+            android:clickable="true"
+            android:layout_width="45dp"
+            android:text="充值"
+            android:background="@drawable/bg_yellow_wallet"
+            android:textSize="@dimen/text_size_12"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/other_yellow_fa"
+            android:gravity="center"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_10"
+            android:layout_height="20dp" />
+        <TextView
+            android:id="@+id/txt_balance"
+            android:layout_width="wrap_content"
+            android:layout_toRightOf="@+id/txt2"
+            android:layout_marginLeft="10dp"
+            android:text="..."
+            android:textColor="@color/c_txt_68"
+            android:textSize="@dimen/text_size_12"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <ImageView style="@style/divider_normal"/>
+    <LinearLayout
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="45dp">
+        <ImageView
+            android:layout_width="17dp"
+            android:layout_marginLeft="10dp"
+            android:src="@mipmap/farm_icon_cash"
+            android:layout_gravity="center_vertical"
+            android:layout_height="15dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="我的代金券"
+            android:textSize="@dimen/text_size_14"
+            android:textColor="@color/c_txt_25"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center_vertical"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="12dp"
+            android:text="(功能暂未开放)"
+            android:textColor="@color/c_txt_68"
+            android:textSize="@dimen/text_size_12"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <android.support.v7.widget.RecyclerView
+        android:background="@color/bg_color"
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

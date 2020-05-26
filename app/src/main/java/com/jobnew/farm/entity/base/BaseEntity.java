@@ -1,12 +1,9 @@
 package com.jobnew.farm.entity.base;
 
 
-import com.jobnew.farm.data.KindMyBean;
 import com.jobnew.farm.data.interfaces.Nullable;
-import com.jobnew.farm.entity.bazaar.BazaarSmall;
 
 import java.io.Serializable;
-import java.util.List;
 
 /**
  * Created by 李波 on 2017/3/31.

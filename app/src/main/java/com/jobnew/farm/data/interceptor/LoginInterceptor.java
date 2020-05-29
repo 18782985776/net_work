@@ -1,7 +1,5 @@
 package com.jobnew.farm.data.interceptor;
 
-import android.icu.util.TimeZone;
-import android.os.SystemClock;
 import android.text.TextUtils;
 import android.util.Log;
 
@@ -11,11 +9,7 @@ import com.jobnew.farm.data.utils.SignUtils;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
-
-import javax.xml.transform.Templates;
 
 import okhttp3.FormBody;
 import okhttp3.Headers;

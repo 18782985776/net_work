@@ -77,7 +77,8 @@ public class AddressManage extends BaseActivity {
     }
 
     @Override
-    protected void onDestroy() {
+    protected void
+    onDestroy() {
         super.onDestroy();
         if (subscribe!=null&&!subscribe.isDisposed()){
             subscribe.dispose();

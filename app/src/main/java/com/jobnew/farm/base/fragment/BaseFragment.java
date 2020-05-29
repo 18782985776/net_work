@@ -6,7 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.annotation.NonNull;
-import android.support.v4.app.ActivityCompat;
 import android.text.TextUtils;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,8 +16,6 @@ import android.widget.TextView;
 import com.aries.ui.widget.progress.UIProgressView;
 import com.jobnew.farm.BuildConfig;
 import com.jobnew.farm.R;
-import com.jobnew.farm.widget.TitleBarHelper;
-import com.marno.easystatelibrary.EasyStatusView;
 import com.jobnew.farm.base.BaseCheckHelper;
 import com.jobnew.farm.base.interfaces.IBaseStatusView;
 import com.jobnew.farm.base.interfaces.IPermissionsLinstener;
@@ -26,8 +23,9 @@ import com.jobnew.farm.data.exception.NoNetException;
 import com.jobnew.farm.utils.FarmToastUtils;
 import com.jobnew.farm.utils.LoadingUtil;
 import com.jobnew.farm.widget.StatusBarUtil;
+import com.jobnew.farm.widget.TitleBarHelper;
+import com.marno.easystatelibrary.EasyStatusView;
 import com.orhanobut.logger.Logger;
-
 
 import java.util.ArrayList;
 import java.util.List;
